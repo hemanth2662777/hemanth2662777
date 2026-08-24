@@ -73,7 +73,7 @@
 
 <td width="32%" align="center">
 
-<img src="./assets/profile.jpg" width="210" alt="Chelimala Hemanth">
+<img src="./assets/blob/main/Pass_Photo.png" width="210" alt="Chelimala Hemanth">
 
 <br><br>
 
