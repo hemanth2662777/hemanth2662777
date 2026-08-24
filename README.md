@@ -1,480 +1,598 @@
-<!-- =========================================================
-  CHELIMALA HEMANTH — GITHUB PROFILE README
-  Portfolio-driven profile | Java Full Stack | AI & Data Science
-========================================================= -->
-
 <div align="center">
 
-✦ Chelimala Hemanth
+<img src="./assets/hero.gif" width="100%" alt="Animated Chelimala Hemanth portfolio banner">
 
-Java Full Stack Developer · AI & Data Science
+<br>
 
-<p>
-  <a href="https://github.com/heman2662777">
-    <img src="https://img.shields.io/badge/GitHub-heman2662777-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hemanth2662n@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<a href="https://github.com/hemanth2662777">
+<img src="https://img.shields.io/badge/GITHUB-hemanth2662777-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:hemanth2662n@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=760&lines=Building+Java+Full+Stack+Applications;Working+with+SQL+%26+Databases;Exploring+AI+%26+Machine+Learning;Turning+Ideas+into+Practical+Projects" alt="Typing introduction">
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2400&pause=650&color=7C5CFF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Building+Database-Driven+Applications;Exploring+Machine+Learning+%26+AI;Turning+Ideas+Into+Working+Software" alt="Animated typing introduction">
 
 </div>
 
-🧭 Portfolio Navigation
-
-<p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-technology-stack">Stack</a> ·
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-experience">Experience</a> ·
-  <a href="#-education">Education</a> ·
-  <a href="#-certifications--achievements">Achievements</a> ·
-  <a href="#-connect">Connect</a>
-</p>
-
-👨‍💻 About
-
-I'm Chelimala Hemanth, a B.Tech graduate in Artificial Intelligence & Data Science with a strong focus on Java Full Stack Development, SQL, Python, Machine Learning, and data-driven applications.
-
-I enjoy building practical software that connects:
-
-☕ Java & object-oriented programming
-
-🌐 Responsive web development
-
-🗄️ SQL, MySQL & database-driven applications
-
-🤖 Machine Learning & AI
-
-📊 Power BI & Microsoft Excel
-
-🧩 Problem solving and analytical thinking
-
-Build → Learn → Improve → Repeat
-
-My portfolio is designed around the same idea: demonstrate real implementation rather than only listing technologies.
-
-⚡ Quick Snapshot
-
-
-
-
-
-🎓 Degree
-
-B.Tech — Artificial Intelligence & Data Science
-
-📅 Graduation
-
-2026
-
-💻 Primary Focus
-
-Java Full Stack Development
-
-🤖 AI Focus
-
-Machine Learning & practical AI applications
-
-🗄️ Database
-
-SQL · MySQL
-
-📊 Analytics
-
-Power BI · Microsoft Excel
-
-📍 Location
-
-Anantapur, Andhra Pradesh, India
-
-🚀 Current Direction
-
-Full-stack development + AI/ML
-
-🛠️ Technology Stack
+<br>
 
 <div align="center">
 
-💻 Programming
+⚡ PORTFOLIO • CODE • AI • DATA • BUILDING
 
-<img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python">
-
-🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
-
-☕ Java Development
-
-<img src="https://skillicons.dev/icons?i=java" alt="Java">
-
-<p>
-  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/OOP-1F2937?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge">
-</p>
-
-🗄️ Database & Data
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</p>
-
-🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C5CFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge">
-</p>
-
-🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
+Build with purpose. Learn continuously. Improve every day.
 
 </div>
 
-🚀 Featured Projects
+<div align="center">
 
-Selected projects from my portfolio, covering full-stack development, databases, machine learning, and practical problem solving.
+<a href="#-about-me">ABOUT</a> •
+<a href="#-technology-stack">STACK</a> •
+<a href="#-featured-projects">PROJECTS</a> •
+<a href="#-experience">EXPERIENCE</a> •
+<a href="#-education">EDUCATION</a> •
+<a href="#-certifications--achievements">ACHIEVEMENTS</a> •
+<a href="#-connect">CONNECT</a>
+
+</div>
+
+🧬 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="28%" align="center">
 
-🍽️ TastyTap
+<img src="./assets/profile.jpg" width="190" alt="Chelimala Hemanth">
 
-Full-Stack Food Delivery Application
+<br><br>
 
-A responsive online food delivery application focused on authentication, restaurant/menu workflows, cart management, ordering, and database integration.
+<b>CHELIMALA HEMANTH</b>
 
-Core Features
+<br>
 
-User registration & authentication
+<sub>Java Full Stack Developer</sub>
 
-Restaurant and menu management
-
-Shopping cart
-
-Food ordering
-
-Order management
-
-MySQL integration
-
-Responsive interface
-
-Built With
-
-Java Servlets JDBC MySQL HTML5 CSS3 JavaScript
+<br>
+<sub>AI & Data Science</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="72%">
 
-🌾 Rice Type Classification
+I'm Chelimala Hemanth, an Artificial Intelligence & Data Science graduate focused on Java Full Stack Development, SQL, web development, machine learning, analytics, and practical software engineering.
 
-AI / ML Image Classification
+My portfolio is intentionally implementation-focused. I like taking an idea through the complete path:
 
-A machine-learning project for classifying rice types from images using a convolutional neural network approach.
+Idea → Design → Code → Database → Logic → Interface → Testing → Improvement
 
-Focus Areas
+🔥 What I enjoy building
 
-Image classification
+☕ Java and Advanced Java applications
 
-Computer vision
+🌐 Responsive web interfaces with HTML, CSS and JavaScript
 
-Model development
+🗄️ SQL / MySQL database-driven systems
 
-Machine learning workflow
+🤖 Machine-learning and AI applications
 
-Image-based prediction
+📊 Analytics using Power BI and Microsoft Excel
 
-Built With
-
-Python TensorFlow CNN Computer Vision
-
-<a href="https://github.com/heman2662777/Rice-Classification-AI-Model">↗ View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-💳 Credit Score Predictor
-
-Machine Learning Prediction System
-
-A practical machine-learning project focused on credit-score prediction using financial features and a predictive modeling workflow.
-
-Focus Areas
-
-Data preprocessing
-
-Feature engineering
-
-Machine learning prediction
-
-Financial-data analysis
-
-Practical model deployment concepts
-
-Built With
-
-Python Scikit-learn Machine Learning Data Processing
-
-</td>
-
-<td width="50%" valign="top">
-
-🧪 More Work
-
-My portfolio continues to evolve as I build, experiment, and improve across software engineering and AI/ML.
-
-Areas I explore
-
-Java application development
-
-Full-stack web applications
-
-SQL and database systems
-
-Machine learning
-
-Data analytics
-
-AI-assisted development
-
-Problem solving
-
-<a href="https://github.com/heman2662777">↗ Explore GitHub</a>
+🧩 Practical solutions that combine software + data
 
 </td>
 </tr>
 </table>
 
+⚡ Developer Dashboard
+
+<div align="center">
+
+🎓 EDUCATION
+
+💻 PRIMARY FOCUS
+
+🤖 AI FOCUS
+
+🗄️ DATA
+
+B.Tech AI & Data Science
+
+Java Full Stack
+
+ML / AI
+
+SQL / MySQL
+
+2022 — 2026
+
+Java · Web · JDBC
+
+Python · TensorFlow
+
+Power BI · Excel
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=PROFILE+VIEWS&color=7C5CFF&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/hemanth2662777?label=FOLLOWERS&style=for-the-badge&color=00D4FF" alt="Followers">
+<img src="https://img.shields.io/github/stars/hemanth2662777?label=STARS&style=for-the-badge&color=FF66C4" alt="Stars">
+
+</div>
+
+🛠️ Technology Stack
+
+<div align="center">
+
+<img src="./assets/skills.gif" width="92%" alt="Animated technology stack">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,tensorflow,opencv,git,github,vscode" alt="Technology icons">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+☕ Java
+
+Core Java
+Advanced Java
+OOP
+JDBC
+Servlets
+
+</td>
+<td align="center" width="25%">
+
+🌐 Web
+
+HTML5
+CSS3
+JavaScript
+
+</td>
+<td align="center" width="25%">
+
+🗄️ Data
+
+SQL
+MySQL
+Power BI
+Microsoft Excel
+
+</td>
+<td align="center" width="25%">
+
+🤖 AI
+
+Prompt Engineering
+ChatGPT
+GitHub Copilot
+
+</td>
+</tr>
+</table>
+
+</div>
+
+🚀 Featured Projects
+
+<div align="center">
+
+01 / FULL STACK
+
+🍽️ TastyTap
+
+Responsive Online Food Delivery Application
+
+</div>
+
+<table>
+<tr>
+<td width="58%">
+
+TastyTap is a responsive food-delivery application focused on authentication, restaurant browsing, menu management, shopping-cart functionality, order placement, and database integration.
+
+✦ Core Features
+
+🔐 User authentication
+
+🍔 Restaurant browsing
+
+📋 Menu management
+
+🛒 Shopping cart
+
+📦 Order placement
+
+🗄️ MySQL database integration
+
+📱 Responsive interface
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" alt="TastyTap stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SERVLETS-ED8B00?style=for-the-badge">
+<img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+02 / AI & ML
+
+🌾 Rice Type Classification
+
+CNN-Based Image Classification System
+
+<img src="https://img.shields.io/badge/92%25_CLASSIFICATION_ACCURACY-7C5CFF?style=for-the-badge">
+
+</div>
+
+<table>
+<tr>
+<td width="42%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="Rice classification stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+</td>
+<td width="58%">
+
+A CNN-based image-classification project designed to identify five rice varieties. The portfolio implementation describes image preprocessing and deep-learning techniques with 92% classification accuracy.
+
+✦ Project Focus
+
+📸 Image classification
+
+🧠 CNN deep learning
+
+🔬 Image preprocessing
+
+👁️ Computer vision
+
+📊 Prediction workflow
+
+<a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://rice-classification-ai-model.onrender.com/login">
+<img src="https://img.shields.io/badge/LAUNCH_PROJECT-00C7B7?style=for-the-badge&logo=render&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+03 / DATA & ML
+
+💳 Credit Score Predictor
+
+Machine Learning Solution for Creditworthiness Prediction
+
+</div>
+
+<table>
+<tr>
+<td width="58%">
+
+A machine-learning project focused on predicting customer creditworthiness through a workflow involving data preprocessing, feature engineering, model evaluation, and financial risk assessment.
+
+✦ Project Focus
+
+🧹 Data preprocessing
+
+🧩 Feature engineering
+
+🤖 Machine learning
+
+📈 Model evaluation
+
+💳 Financial risk assessment
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Credit score stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+🧠 Project Engineering Pattern
+
+<div align="center">
+
+┌──────────────────────────────────────────────────────────────────┐
+│                        PROJECT WORKFLOW                           │
+├───────────┬───────────┬────────────┬────────────┬────────────────┤
+│   IDEA    │   DESIGN  │   DEVELOP  │   INTEGRATE│    IMPROVE     │
+│     ↓     │     ↓     │     ↓      │     ↓      │       ↓        │
+│ Problem   │ UI / UX   │ Java/Py   │ DB / ML    │ Test / Refine  │
+└───────────┴───────────┴────────────┴────────────┴────────────────┘
+
+</div>
+
 💼 Experience
+
+<table>
+<tr>
+<td width="50%">
 
 🤖 AI & Machine Learning Intern
 
 SmartBridge (APSCHE)
 
-Worked with Python and machine-learning workflows, including:
+Python · Scikit-learn · Pandas · NumPy
 
-Data preprocessing
+Developed foundational ML models using Python and Scikit-learn.
 
-Feature engineering
+Performed data preprocessing.
 
-Model development
+Worked with feature engineering.
 
-Model evaluation
+Practiced model evaluation.
 
-Analytical problem solving
+Strengthened analytical and problem-solving skills.
 
-Technology exposure: Python · Scikit-learn · Pandas · NumPy
+</td>
+<td width="50%">
 
 ⚛️ Quantum Computing Intern
 
 SkillDzire (APSCHE)
 
-Explored foundational quantum-computing concepts including:
+Quantum Computing · Quantum Gates · Quantum Algorithms
 
-Quantum computing fundamentals
+Explored qubits and superposition.
 
-Quantum gates
+Studied quantum gates.
 
-Quantum algorithms
+Explored quantum algorithms.
+
+Studied emerging computational models.
+
+Gained exposure to advanced computing concepts.
+
+</td>
+</tr>
+</table>
 
 🎓 Education
 
-B.Tech — Artificial Intelligence & Data Science
+<div align="center">
+
+PERIOD
+
+QUALIFICATION
+
+INSTITUTION
+
+RESULT
+
+2022 — 2026
+
+🎓 B.Tech — AI & Data Science
 
 Kandula Obul Reddy Memorial College of Engineering, Kadapa
 
-2022 — 2026 · CGPA: 8.3 / 10
+CGPA 8.3/10
 
-Intermediate — MPC
+2020 — 2022
+
+📘 Intermediate — MPC
 
 Swamy Vivekananda Junior College, Anantapur
 
-2020 — 2022 · 77.5%
+77.5%
 
-Secondary School Certificate
+2020
+
+🏫 Secondary School Certificate
 
 Z.P. High School, Peddapappur
 
-2020 · 92.66%
+92.66%
+
+</div>
 
 🏆 Certifications & Achievements
 
-Achievement
-
-Organization / Source
-
-🤖 Artificial Intelligence & Machine Learning
-
-SmartBridge
-
-📊 Big Data
-
-NPTEL
-
-⚛️ Quantum Computing
-
-SkillDzire
-
-🥈 Top 2 Performer
-
-B.Tech AI & Data Science program
-
-🧠 What I Bring
-
 <div align="center">
 
-Engineering
-
-Data & AI
-
-Professional
-
-☕ Java
-
-🤖 Machine Learning
-
-🧩 Problem Solving
-
-🌐 Web Development
-
-🐍 Python
-
-📚 Continuous Learning
-
-🗄️ SQL / MySQL
-
-📊 Analytics
-
-🔍 Analytical Thinking
-
-🔌 JDBC / Servlets
-
-🧠 AI Concepts
-
-🚀 Practical Building
+<img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING-SmartBridge-7C5CFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/BIG_DATA-NPTEL-00A6D6?style=for-the-badge">
+<img src="https://img.shields.io/badge/QUANTUM_COMPUTING-SkillDzire-FF4D9D?style=for-the-badge">
+<img src="https://img.shields.io/badge/TOP_2_PERFORMER-B.Tech_AI_%26_Data_Science-FFB000?style=for-the-badge">
 
 </div>
-
-🎯 Career Focus
-
-I'm interested in opportunities where I can apply my skills in:
-
-Java Full Stack Development
-        ↓
-Backend & Database Engineering
-        ↓
-SQL & Data-Driven Applications
-        ↓
-Machine Learning & AI
-        ↓
-Real-World Software Solutions
-
-My goal is to keep growing as a software engineer while building applications that are useful, maintainable, responsive, and technically meaningful.
-
-📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=heman2662777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heman2662777&theme=tokyonight&hide_border=true" alt="GitHub streak">
+🥈 Top 2 Performer — Ranked among the Top 2 performers in the B.Tech AI & Data Science program.
+
+🎨 Portfolio UX / Animation System
+
+The portfolio website supplied with this profile is not just a static resume page. Its JavaScript implements an interaction layer around the HTML/CSS design.
+
+<div align="center">
+
+✦ EXPERIENCE
+
+⚙️ IMPLEMENTATION
+
+🎬 Intro screen
+
+Portfolio entry interaction
+
+✨ Scroll reveal
+
+Intersection Observer based reveals
+
+🧲 Magnetic buttons
+
+Pointer-based button movement
+
+🪄 Project cards
+
+Perspective tilt interaction
+
+🌌 Parallax
+
+Mouse-driven background orbs
+
+📱 Mobile menu
+
+Responsive navigation state
+
+🪟 Project modal
+
+Accessible details dialog
+
+⌨️ Keyboard
+
+Escape + focus trapping
+
+♿ Reduced motion
+
+prefers-reduced-motion handling
+
+🖼️ Images
+
+Load/error state handling
+
+📐 Responsive
+
+Resize-aware UI behavior
+
+🔗 Navigation
+
+Section-based portfolio navigation
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth2662777&theme=radical&hide_border=true" width="49%" alt="GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=donut-vertical&theme=radical&hide_border=true" width="42%" alt="Top languages">
+
+</div>
+
+🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=090B17&color=00D4FF&line=7C5CFF&point=FF66C4&area=true&hide_border=true&custom_title=CHELIMALA%20HEMANTH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity">
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+
+</div>
+
+🧭 Career Direction
+
+<div align="center">
+
+                 ┌─────────────────────┐
+                 │   JAVA FULL STACK   │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ BACKEND + DATABASE  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │    SQL + ANALYTICS  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │     AI + MACHINE    │
+                 │      LEARNING       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ REAL-WORLD SOFTWARE │
+                 └─────────────────────┘
+
+</div>
+
+🤝 Connect With Me
+
+<div align="center">
+
+Let's build useful things with code, data, and AI.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heman2662777&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+<a href="mailto:hemanth2662n@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-hemanth2662n%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
+<img src="https://img.shields.io/badge/LINKEDIN-Chelimala%20Hemanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/hemanth2662777">
+<img src="https://img.shields.io/badge/GITHUB-hemanth2662777-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
-🐍 Contribution Activity
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heman2662777&bg_color=0d1117&color=58a6ff&line=7c5cff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity">
+<img src="./assets/footer.gif" width="100%" alt="Animated portfolio footer">
 
-</div>
+✦ Build • Learn • Improve • Repeat ✦
 
-🌐 My Portfolio
-
-The portfolio website behind this profile is built as an interactive, responsive experience rather than a static resume.
-
-Interface highlights
-
-✦ Animated introduction screen
-
-🧭 Responsive navigation
-
-🎬 Cinematic dark UI
-
-✨ Scroll-reveal animations
-
-🧲 Interactive magnetic buttons
-
-🪄 Project detail modal
-
-⌨️ Keyboard accessibility
-
-📱 Mobile navigation
-
-🎯 Active section navigation
-
-♿ Reduced-motion support
-
-🔗 Smooth section navigation
-
-Frontend implementation
-
-HTML5 · CSS3 · JavaScript
-
-🤝 Let's Connect
-
-<div align="center">
-
-Open to learning, building, and meaningful opportunities.
-
-<p>
-  <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:hemanth2662n@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Message%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/heman2662777">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</div>
-
-<div align="center">
-
-✦ Build with purpose. Learn continuously. Improve every day.
-
-Thanks for visiting my profile.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:7C5CFF,100:00D4FF&height=120&section=footer" width="100%" alt="Portfolio footer">
+<sub>Designed around the actual HTML, CSS and JavaScript portfolio implementation.</sub>
 
 </div>
