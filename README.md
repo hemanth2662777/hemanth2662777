@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=CHELIMALA%20HEMANTH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML&descAlignY=58&descSize=18&animation=fadeIn&color=0:050816,35:1E1B4B,70:7C3AED,100:06B6D4" width="100%" alt="Animated profile hero" />
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+%26+Scalable+Systems;Turning+Ideas+Into+Digital+Experiences" alt="Typing introduction" />
 
 <br>
@@ -22,6 +26,24 @@
 
 <div align="center">
 
+## ✦ FRONTEND EXPERIENCE LAYER ✦
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React" />
+
+<br><br>
+
+`STRUCTURE` ──→ `DESIGN` ──→ `INTERACTION` ──→ `COMPONENTS` ──→ `EXPERIENCE`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=800&lines=Semantic+HTML5+%E2%86%92+Responsive+CSS3;CSS+Keyframes+%E2%86%92+Micro+Interactions;JavaScript+%E2%86%92+Dynamic+UI+Behavior;React.js+%E2%86%92+Reusable+Component+Systems;UI%2FUX+%E2%86%92+Polished+Digital+Experiences" alt="Frontend animation" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### `HTML5` · `CSS3` · `JAVASCRIPT` · `REACT.JS` · `JAVA` · `PYTHON` · `AI/ML` · `FULL STACK`
 
 **B.Tech Artificial Intelligence & Data Science · 2022 — 2026**
@@ -33,6 +55,16 @@
 ---
 
 # 🧬 01 / SYSTEM PROFILE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01%20DISCOVER-050816?style=for-the-badge&logoColor=white" alt="Discover" />
+<img src="https://img.shields.io/badge/02%20DESIGN-1E1B4B?style=for-the-badge&logoColor=white" alt="Design" />
+<img src="https://img.shields.io/badge/03%20BUILD-7C3AED?style=for-the-badge&logoColor=white" alt="Build" />
+<img src="https://img.shields.io/badge/04%20ANIMATE-06B6D4?style=for-the-badge&logoColor=white" alt="Animate" />
+<img src="https://img.shields.io/badge/05%20REFINE-FF00AA?style=for-the-badge&logoColor=white" alt="Refine" />
+
+</div>
 
 <table>
 <tr>
@@ -94,6 +126,12 @@ I enjoy transforming ideas into **functional, responsive, scalable and visually 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:7C3AED,50:06B6D4,100:FF00AA" width="92%" alt="Animated section divider" />
+
+</div>
+
+<div align="center">
+
 |        🔭 BUILDING       |   🧠 LEARNING  |     ⚙️ IMPROVING     |
 | :----------------------: | :------------: | :------------------: |
 | Intelligent applications | Advanced AI/ML |     System design    |
@@ -139,6 +177,26 @@ Responsive Interactive UI
 ```
 
 `Responsive Design` · `Component Architecture` · `Micro-interactions` · `CSS Animations` · `Dark UI` · `Interactive Cards` · `Modal UX` · `Search UX` · `Theme Switching`
+
+</div>
+
+<div align="center">
+
+### 🎬 ANIMATION PIPELINE
+
+```text
+┌──────────┐     ┌──────────┐     ┌────────────┐     ┌───────────┐
+│ HTML5    │ ──→ │ CSS3     │ ──→ │ JavaScript │ ──→ │ React.js  │
+│ Structure│     │ Motion   │     │ Behavior   │     │ Components│
+└──────────┘     └──────────┘     └────────────┘     └─────┬─────┘
+                                                           │
+                                                           ▼
+                                               ┌────────────────────┐
+                                               │ POLISHED UI / UX   │
+                                               └────────────────────┘
+```
+
+**Motion principles:** `Entrance → Reveal → Hover → Feedback → Transition → Completion`
 
 </div>
 
@@ -227,6 +285,12 @@ Responsive Interactive UI
 ---
 
 # 🚀 05 / FEATURED PROJECTS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=PROJECT+01+%E2%80%A2+AI+PREDICTION;PROJECT+02+%E2%80%A2+COMPUTER+VISION;PROJECT+03+%E2%80%A2+JAVA+FULL+STACK;PROJECT+04+%E2%80%A2+FRONTEND+UI%2FUX+ENGINEERING" alt="Project sequence animation" />
+
+</div>
 
 <table>
 <tr>
@@ -360,6 +424,21 @@ A cinematic streaming-style interface focused on interactive content discovery.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🎨 CINEKINGS FRONTEND MOTION SYSTEM
+
+`Hero Reveal` → `Card Hover` → `Search Transition` → `Modal Scale` → `Theme Transition` → `Player UI`
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-SEMANTIC-FF6B35?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 semantic" />
+<img src="https://img.shields.io/badge/CSS3-MOTION-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 motion" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-DYNAMIC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript dynamic UI" />
+<img src="https://img.shields.io/badge/REACT-COMPONENTS-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React components" />
+
+</div>
 
 ---
 
@@ -530,6 +609,21 @@ Focused on strengthening practical development and technical problem-solving thr
 │  [████████████░░░░░░░░]  Explainable AI                    │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<div align="center">
+
+### ⚡ MOTION LAB
+
+```text
+BACKGROUND      ████████████████████  PARTICLE / GRADIENT MOTION
+SECTION REVEAL   ███████████████████░  STAGGERED ENTRANCE
+CARDS            ████████████████████  HOVER / LIFT / SCALE
+BUTTONS          ███████████████████░  PRESS / GLOW / FEEDBACK
+MODALS           ██████████████████░░  SCALE / FADE / BLUR
+NAVIGATION       ███████████████████░  SLIDE / ACTIVE STATE
 ```
 
 </div>
@@ -827,6 +921,20 @@ $ status
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,50:06B6D4,100:FF00AA&section=footer" width="100%" alt="Animated footer" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 MOTION SIGNATURE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=BUILD%20%E2%80%A2%20ANIMATE%20%E2%80%A2%20REFINE&fontSize=28&fontColor=FFFFFF&animation=fadeIn&color=0:050816,50:7C3AED,100:06B6D4" width="100%" alt="Animated motion signature" />
+
+<br><br>
+
+`HTML` · `CSS` · `JAVASCRIPT` · `REACT` · `UI/UX` · `ANIMATION` · `AI` · `FULL STACK`
 
 </div>
 
