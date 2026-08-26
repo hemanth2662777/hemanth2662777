@@ -1,4 +1,3 @@
-
 # ◈ CHELIMALA HEMANTH
 
 <div align="center">
@@ -813,7 +812,7 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=050816" width="49%" alt="GitHub statistics">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth2662777&theme=radical&hide_border=true&background=050816" width="49%" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=050816" width="49%" alt="GitHub streak">
 
 <br><br>
 
@@ -831,7 +830,7 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-readme-activity-graph.vercel.app" alt="GitHub contribution snake">
 
 </div>
 
