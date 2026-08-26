@@ -635,7 +635,7 @@ NAVIGATION       ███████████████████░  S
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical"
+src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0"
 width="49%"
 alt="GitHub statistics"
 />
@@ -649,7 +649,7 @@ alt="GitHub contribution streak"
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&hide_border=true&theme=radical"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E2E8F0"
 width="42%"
 alt="Top programming languages"
 />
@@ -663,7 +663,7 @@ alt="Top programming languages"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&theme=react-dark&hide_border=true&area=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
+src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&theme=react-dark&bg_color=0D1117&color=E2E8F0&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
 width="100%"
 alt="GitHub contribution activity graph"
 />
@@ -677,9 +677,9 @@ alt="GitHub contribution activity graph"
 ### 🐍 CONTRIBUTION FLOW
 
 <img
-src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-contribution-grid-snake.svg"
+src="https://github-contribution-grid-snake.vercel.app/api?username=hemanth2662777&color_snake=7C3AED&color_dots=%230D1117%2C%23161032%2C%23221B45%2C%23342A66%2C%237C3AED"
 width="100%"
-alt="Automatically generated GitHub contribution snake"
+alt="GitHub contribution snake animation"
 />
 
 </div>
