@@ -258,27 +258,27 @@ Responsive Interactive UI
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge\&logo=numpy\&logoColor=013243)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=013243)
 
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
@@ -711,9 +711,6 @@ alt="GitHub development activity"
 />
 
 </div>
-
----
-
 
 ---
 
