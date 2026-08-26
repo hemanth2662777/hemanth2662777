@@ -634,31 +634,25 @@ NAVIGATION       ███████████████████░  S
 
 <div align="center">
 
-<a href="https://github.com/hemanth2662777">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0"
-    width="49%"
-    alt="GitHub statistics"
-  />
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical"
+width="49%"
+alt="GitHub statistics"
+/>
 
-<a href="https://github.com/hemanth2662777">
-  <img
-    src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=FF00AA&currStreakLabel=06B6D4"
-    width="49%"
-    alt="GitHub contribution streak"
-  />
-</a>
+<img
+src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=FF00AA&currStreakLabel=06B6D4"
+width="49%"
+alt="GitHub contribution streak"
+/>
 
 <br><br>
 
-<a href="https://github.com/hemanth2662777">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=E2E8F0"
-    width="42%"
-    alt="Top programming languages"
-  />
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&hide_border=true&theme=radical"
+width="42%"
+alt="Top programming languages"
+/>
 
 </div>
 
@@ -669,7 +663,7 @@ NAVIGATION       ███████████████████░  S
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=0D1117&color=E2E8F0&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
+src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&theme=react-dark&hide_border=true&area=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
 width="100%"
 alt="GitHub contribution activity graph"
 />
@@ -685,14 +679,10 @@ alt="GitHub contribution activity graph"
 <img
 src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-contribution-grid-snake.svg"
 width="100%"
-alt="GitHub contribution snake animation"
+alt="Automatically generated GitHub contribution snake"
 />
 
 </div>
-
-<br>
-
-> **Note:** The contribution snake is generated automatically by GitHub Actions. The generated SVG must exist at `output/github-contribution-grid-snake.svg` in the `hemanth2662777` profile repository.
 
 ---
 
@@ -700,7 +690,11 @@ alt="GitHub contribution snake animation"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hemanth2662777&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub trophies" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=hemanth2662777&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
+width="100%"
+alt="GitHub trophies"
+/>
 
 </div>
 
@@ -710,17 +704,16 @@ alt="GitHub contribution snake animation"
 
 <div align="center">
 
-<a href="https://github.com/hemanth2662777">
-
 <img
 src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117&text_color=E2E8F0"
-width="90%"
+width="100%"
 alt="GitHub development activity"
 />
 
-</a>
-
 </div>
+
+---
+
 
 ---
 
