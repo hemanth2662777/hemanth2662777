@@ -810,13 +810,31 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=050816" width="49%" alt="GitHub statistics">
+<a href="https://github.com/hemanth2662777">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=050816"
+    width="49%"
+    alt="GitHub statistics"
+  />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=050816" width="49%" alt="GitHub streak">
+<a href="https://github.com/hemanth2662777">
+  <img
+    src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=050816"
+    width="49%"
+    alt="GitHub streak"
+  />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=donut-vertical&theme=radical&hide_border=true&bg_color=050816" width="42%" alt="Top languages">
+<a href="https://github.com/hemanth2662777">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=donut-vertical&theme=radical&hide_border=true&bg_color=050816"
+    width="42%"
+    alt="Top languages"
+  />
+</a>
 
 </div>
 
@@ -826,16 +844,17 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=050816&color=00F5FF&line=7C3AED&point=FF00AA&area=true&hide_border=true&custom_title=CHELIMALA%20HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX" width="100%" alt="GitHub contribution activity">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-readme-activity-graph.vercel.app" alt="GitHub contribution snake">
+<a href="https://github.com/hemanth2662777">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=050816&color=00F5FF&line=7C3AED&point=FF00AA&area=true&hide_border=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</a>
 
 </div>
 
 ---
-
 # 🧭 13 / CAREER TRAJECTORY
 
 <div align="center">
