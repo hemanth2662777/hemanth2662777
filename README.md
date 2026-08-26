@@ -670,14 +670,14 @@ alt="Top programming languages"
 
 ---
 
-# 🌌 11 / CONTRIBUTION MATRIX
+# # 🌌 11 / CONTRIBUTION MATRIX
 
 <div align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=0D1117&color=E2E8F0&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX"
 width="100%"
-alt="GitHub contribution activity"
+alt="GitHub contribution activity graph"
 />
 
 </div>
@@ -696,9 +696,12 @@ alt="GitHub contribution snake animation"
 
 </div>
 
-> **Note:** The snake requires a GitHub Actions workflow that generates `github-contribution-grid-snake.svg` in the `output` branch. The README no longer uses the incorrect activity-graph filename from the previous version.
+<br>
+
+> **Note:** The contribution snake is generated automatically by GitHub Actions and stored in the `output` branch as `github-contribution-grid-snake.svg`.
 
 ---
+
 
 # 🏆 12 / ACHIEVEMENTS
 
