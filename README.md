@@ -1,106 +1,126 @@
-# ◈ CHELIMALA HEMANTH
+◈ CHELIMALA HEMANTH — Interactive Developer Portfolio
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Full Stack">
+  <img src="https://img.shields.io/badge/AI-%26%20Data%20Science-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Data Science">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-00F5FF?style=for-the-badge" alt="Frontend">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python-00FFA3?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
+</p>
 
-<img src="./assets/hero.gif" width="100%" alt="Chelimala Hemanth holographic animated portfolio">
+<p align="center">
+  <strong>BUILD • EXPLORE • EVOLVE</strong>
+</p>
 
-<br><br>
+<p align="center">
+  A cinematic, interactive developer portfolio focused on Java Full Stack Development,
+  software engineering, artificial intelligence, machine learning, data analytics,
+  responsive UI/UX, and high-quality web interactions.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1600&pause=350&color=00F5FF&center=true&vCenter=true&width=1000&lines=JAVA+FULL+STACK+DEVELOPER;AI+%26+DATA+SCIENCE+GRADUATE;FULL+STACK+%7C+AI+%7C+DATA+%7C+UI%2FUX;BUILDING+INTELLIGENT+APPLICATIONS;ENGINEERING+INTERACTIVE+EXPERIENCES;CODE+%E2%86%92+SYSTEMS+%E2%86%92+IMPACT" alt="Animated developer introduction">
+◈ TABLE OF CONTENTS
 
-<br>
+Overview
 
-<img src="https://img.shields.io/badge/◉_SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/◈_MODE-BUILDING-7C3AED?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/⚡_STATUS-LEARNING-FF00AA?style=for-the-badge&labelColor=050816">
+Portfolio Vision
 
-<br><br>
+Highlights
 
-<a href="https://github.com/hemanth2662777">
-<img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-<img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816">
-</a>
-&nbsp;
-<a href="mailto:hemanth2662n@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF00AA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816">
-</a>
+Motion System
 
-<br><br>
+Visual Design System
 
-<img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/hemanth2662777?label=FOLLOWERS&style=for-the-badge&color=7C3AED">
-<img src="https://img.shields.io/github/stars/hemanth2662777?label=STARS&style=for-the-badge&color=FF00AA">
+Technology Stack
 
-</div>
+Developer Core
 
----
+Technology Matrix
 
-<div align="center">
+Featured Projects
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║       ◈ CODE       ◈ DATA       ◈ AI       ◈ DESIGN       ◈ UX       ║
-║                                                                      ║
-║                 BUILD  •  EXPLORE  •  EVOLVE                        ║
-║                                                                      ║
-║          SOFTWARE × INTELLIGENCE × INTERACTIVE EXPERIENCE            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+Project 01 — TastyTap
 
-</div>
+Project 02 — Rice Vision AI
 
-# ◈ SYSTEM MAP
+Project 03 — Credit Score Predictor
 
-<div align="center">
+Experience
 
-**[ ABOUT ]** ─── **[ STACK ]** ─── **[ PROJECTS ]** ─── **[ EXPERIENCE ]** ─── **[ EDUCATION ]** ─── **[ ANALYTICS ]** ─── **[ CONNECT ]**
+Education
 
-</div>
+Achievement
 
----
+Analytics & GitHub
 
-# ◉ 01 / ABOUT
+Career Trajectory
 
-<table>
-<tr>
+Current Direction
 
-<td width="32%" align="center">
+UX Architecture
 
-<img src="https://github.com/hemanth2662777/assets/blob/main/Pass_Photo.png" width="210" alt="Chelimala Hemanth">
+Animation Architecture
 
-<br><br>
+Responsive Design
 
-```text
-┌─────────────────────────┐
-│     CHELIMALA HEMANTH   │
-├─────────────────────────┤
-│ JAVA FULL STACK         │
-│ AI & DATA SCIENCE       │
-│ SOFTWARE ENGINEERING    │
-│ MACHINE LEARNING        │
-└─────────────────────────┘
-```
+Accessibility
 
-</td>
+Performance
 
-<td width="68%">
+Project Structure
 
-## Building where software meets intelligence.
+Getting Started
 
-I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science graduate** focused on **Java Full Stack Development, backend engineering, databases, machine learning, analytics and interactive web experiences**.
+Local Development
 
-I enjoy transforming ideas into complete working systems:
+Deployment
 
-```text
+Customization
+
+Future Improvements
+
+Engineering Mindset
+
+Connect
+
+License
+
+◈ OVERVIEW
+
+This repository contains the source for my personal interactive developer portfolio.
+
+The portfolio is designed to communicate my technical profile through a combination of:
+
+Software engineering
+
+Java Full Stack Development
+
+Frontend development
+
+Backend development
+
+Database systems
+
+Artificial Intelligence
+
+Machine Learning
+
+Computer Vision
+
+Data Analytics
+
+Responsive UI/UX
+
+Motion design
+
+Interactive user experiences
+
+The objective is to create a portfolio that feels like a working digital system, rather than a collection of static resume sections.
+
+◈ PORTFOLIO VISION
+
                     IDEA
                      │
                      ▼
-                ARCHITECTURE
+               ARCHITECTURE
                      │
                      ▼
                    UI / UX
@@ -109,10 +129,10 @@ I enjoy transforming ideas into complete working systems:
                     CODE
                      │
                      ▼
-                  DATABASE
+                 DATABASE
                      │
                      ▼
-                AI / LOGIC
+                 AI / LOGIC
                      │
                      ▼
                    TEST
@@ -121,196 +141,373 @@ I enjoy transforming ideas into complete working systems:
                   DEPLOY
                      │
                      ▼
-                 IMPROVE
-```
+                  IMPROVE
 
-### CURRENT ENGINEERING FOCUS
+The portfolio follows a simple engineering philosophy:
 
-`Java` `JavaScript` `React` `Python` `SQL` `MySQL`
+Build systems. Create experiences. Solve problems. Keep improving.
 
-### INTELLIGENCE LAYER
+◈ HIGHLIGHTS
 
-`Machine Learning` `TensorFlow` `CNN` `OpenCV`
+Core Areas
 
-### EXPERIENCE LAYER
+Area
 
-`HTML5` `CSS3` `Responsive UI` `Animations` `Interactive UX`
+Focus
 
-</td>
+💻 Software
 
-</tr>
-</table>
+Java Full Stack Development
 
----
+☕ Backend
 
-# ⚡ 02 / DEVELOPER CORE
+Java, JDBC, Servlets
 
-<div align="center">
+🌐 Frontend
 
-|         CORE         | TECHNOLOGY              |     FOCUS    |
-| :------------------: | :---------------------- | :----------: |
-|       ⚡ Backend      | Java • JDBC • Servlets  | `█████████░` |
-|      🌐 Frontend     | HTML • CSS • JavaScript | `█████████░` |
-|   ⚛️ UI Engineering  | React • Interactive UX  | `████████░░` |
-|     🗄️ Database     | SQL • MySQL             | `█████████░` |
-|      🤖 AI / ML      | Python • TensorFlow     | `████████░░` |
-|  👁️ Computer Vision | CNN • OpenCV            | `███████░░░` |
-|     📊 Analytics     | Power BI • Excel        | `███████░░░` |
-| 🔧 Engineering Tools | Git • GitHub • VS Code  | `█████████░` |
+HTML5, CSS3, JavaScript
 
-</div>
+⚛️ UI
 
----
+React, Responsive UI, Interactive UX
 
-# ⚙️ 03 / TECHNOLOGY MATRIX
+🗄️ Database
 
-<div align="center">
+SQL, MySQL
 
-<img src="./assets/skills.gif" width="96%" alt="Animated technology matrix">
+🤖 AI
 
-<br><br>
+Machine Learning
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,tensorflow,opencv,git,github,vscode" alt="Technology stack">
+👁️ Vision
 
-<br><br>
+CNN, OpenCV
 
-```text
-╭────────────────────────────────────────────────────────────────────╮
-│                         TECHNOLOGY FLOW                             │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  JAVA ────────────────► BACKEND ──────────────► DATABASE           │
-│    │                       │                        │               │
-│    ▼                       ▼                        ▼               │
-│  JDBC                  SERVLETS                  MySQL              │
-│                                                                    │
-│  JAVASCRIPT ──────────► REACT ───────────────► INTERACTIVE UI      │
-│                                                                    │
-│  PYTHON ──────────────► ML ──────────────────► INTELLIGENCE        │
-│                              │                                     │
-│                              ▼                                     │
-│                         TENSORFLOW / CNN                           │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
-```
+🐍 Programming
 
-</div>
+Python
 
-<table>
-<tr>
+📊 Analytics
 
-<td width="25%" align="center">
+Power BI, Excel
 
-### ☕ JAVA
+🛠️ Tools
 
-`Core Java`
+Git, GitHub, VS Code
 
-`OOP`
+◈ MOTION SYSTEM
 
-`Advanced Java`
+The portfolio includes a dedicated animation layer designed around the principle:
 
-`JDBC`
+ENTER
+  ↓
+REVEAL
+  ↓
+RESPOND
+  ↓
+TRANSFORM
+  ↓
+EXIT
 
-`Servlets`
+The motion system is intended to make interaction clear and visually meaningful.
 
-</td>
+Visual Motion
 
-<td width="25%" align="center">
+Animated gradient field
 
-### ⚛️ WEB
+Floating light orbs
 
-`HTML5`
+Particle effects
 
-`CSS3`
+Dynamic glow
 
-`JavaScript`
+Ambient lighting
 
-`React`
+Depth layers
 
-`Responsive UI`
+Cinematic background movement
 
-</td>
+Mouse parallax
 
-<td width="25%" align="center">
+Floating objects
 
-### 🤖 AI
+Star/particle twinkle
 
-`Python`
+Interaction Motion
 
-`TensorFlow`
+Custom cursor
 
-`CNN`
+Cursor glow
 
-`OpenCV`
+Magnetic-style buttons
 
-`Machine Learning`
+3D tilt cards
 
-</td>
+Perspective movement
 
-<td width="25%" align="center">
+Hover expansion
 
-### 🗄️ DATA
+Interactive project cards
 
-`SQL`
+Animated modals
 
-`MySQL`
+Smooth state transitions
 
-`Power BI`
+Icon transformations
 
-`Excel`
+Shine/sweep effects
 
-`Analytics`
+Scroll Motion
 
-</td>
+Section reveal
 
-</tr>
-</table>
+Staggered content reveal
 
----
+Timeline drawing
 
-# 🚀 04 / PROJECT LAB
+Counter animation
 
-<div align="center">
+Image reveal
 
-```text
-╭────────────────────────────────────────────────────────────────────╮
-│                         PROJECT LAB                                │
-│                                                                    │
-│       SOFTWARE       ×       DATA       ×       ARTIFICIAL         │
-│                                            INTELLIGENCE             │
-│                                                                    │
-│                 BUILD → TEST → DEPLOY → EVOLVE                    │
-╰────────────────────────────────────────────────────────────────────╯
-```
+Progress animation
 
-</div>
+Scroll progress
 
----
+Viewport-based animation
 
-# ◈ PROJECT_01 — TASTYTAP
+Career trajectory reveal
 
-### `FULL-STACK / FOOD DELIVERY / DATABASE SYSTEM`
+◈ VISUAL DESIGN SYSTEM
 
-<div align="center">
+The portfolio follows a dark cinematic visual language.
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5FF?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/JAVA-BACKEND-FF8A00?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-00A8E8?style=for-the-badge&labelColor=050816">
+Token
 
-</div>
+Value
 
-<table>
-<tr>
+Purpose
 
-<td width="60%">
+Dark Space
 
-### SYSTEM OVERVIEW
+#050816
+
+Depth / Background
+
+Electric Cyan
+
+#00F5FF
+
+Interaction
+
+Violet Core
+
+#7C3AED
+
+Intelligence
+
+Magenta Pulse
+
+#FF00AA
+
+Creative Energy
+
+Blue Electric
+
+#2563EB
+
+Technology
+
+Green Signal
+
+#00FFA3
+
+Success
+
+Visual Principles
+
+Dark Cinematic Surfaces
+
+Creates depth and focuses attention on interactive content.
+
+Electric Cyan
+
+Used for interaction, active states, highlights, and system feedback.
+
+Violet
+
+Represents intelligence and technology.
+
+Magenta
+
+Provides creative contrast and visual energy.
+
+Green
+
+Communicates successful states and positive metrics.
+
+Glass Surfaces
+
+Used to create modern depth and layered interfaces.
+
+Glow
+
+Used to establish hierarchy and emphasize interaction.
+
+Motion
+
+Used as feedback rather than decoration.
+
+Contrast
+
+Maintains readability against the cinematic background.
+
+◈ TECHNOLOGY STACK
+
+Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Responsive UI
+
+Interactive UX
+
+CSS Animations
+
+CSS Transitions
+
+3D Transformations
+
+Backend
+
+Java
+
+Core Java
+
+Object-Oriented Programming
+
+Advanced Java
+
+JDBC
+
+Java Servlets
+
+Database
+
+SQL
+
+MySQL
+
+Database-driven applications
+
+Artificial Intelligence / Machine Learning
+
+Python
+
+TensorFlow
+
+CNN
+
+OpenCV
+
+Machine Learning
+
+Scikit-learn
+
+Analytics
+
+Power BI
+
+Excel
+
+Data Analytics
+
+Visualization
+
+Development Tools
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+◈ DEVELOPER CORE
+
+┌──────────────────────────┬──────────────────────────────┐
+│ AREA                     │ TECHNOLOGY                   │
+├──────────────────────────┼──────────────────────────────┤
+│ Backend                  │ Java • JDBC • Servlets       │
+│ Frontend                 │ HTML • CSS • JavaScript      │
+│ UI Engineering           │ React • Interactive UX      │
+│ Database                 │ SQL • MySQL                  │
+│ AI / ML                  │ Python • TensorFlow          │
+│ Computer Vision          │ CNN • OpenCV                │
+│ Analytics                │ Power BI • Excel             │
+│ Engineering Tools        │ Git • GitHub • VS Code      │
+└──────────────────────────┴──────────────────────────────┘
+
+◈ TECHNOLOGY MATRIX
+
+The portfolio visualizes the relationship between technologies and system layers.
+
+Java Full Stack Flow
+
+JAVA
+ │
+ ├──────────────► JDBC
+ │
+ ├──────────────► SERVLETS
+ │
+ ▼
+BACKEND
+ │
+ ▼
+DATABASE
+ │
+ ▼
+MYSQL
+
+Frontend Flow
+
+JAVASCRIPT
+     │
+     ▼
+   REACT
+     │
+     ▼
+INTERACTIVE UI
+
+AI Flow
+
+PYTHON
+   │
+   ▼
+MACHINE LEARNING
+   │
+   ▼
+TENSORFLOW / CNN
+   │
+   ▼
+INTELLIGENCE
+
+◈ FEATURED PROJECTS
+
+The portfolio currently presents three major projects.
+
+1 — TASTYTAP
+
+Full-Stack Food Delivery & Database System
 
 TastyTap is a responsive food-delivery application designed around a complete digital ordering workflow.
 
-### SYSTEM PIPELINE
+System Pipeline
 
-```text
 AUTHENTICATION
       │
       ▼
@@ -327,29 +524,29 @@ ORDER
       │
       ▼
 DATABASE
-```
 
-### FEATURES
+Features
 
-* 🔐 Authentication
-* 🍔 Restaurant browsing
-* 📋 Menu management
-* 🛒 Cart management
-* 📦 Order placement
-* 🗄️ MySQL integration
-* 🔌 JDBC connectivity
-* ☕ Java Servlet backend
-* 📱 Responsive interface
+🔐 Authentication
 
-</td>
+🍔 Restaurant browsing
 
-<td width="40%" align="center">
+📋 Menu management
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" width="190" alt="TastyTap technology stack">
+🛒 Cart management
 
-<br><br>
+📦 Order placement
 
-```text
+🗄️ MySQL integration
+
+🔌 JDBC connectivity
+
+☕ Java Servlet backend
+
+📱 Responsive interface
+
+Technology Pipeline
+
 JAVA
   │
   ▼
@@ -363,39 +560,43 @@ MYSQL
   │
   ▼
 JAVASCRIPT
-```
 
-</td>
+Engineering Areas
 
-</tr>
-</table>
+Backend development
 
----
+Database integration
 
-# ◈ PROJECT_02 — RICE VISION AI
+Authentication
 
-### `COMPUTER VISION / CNN / IMAGE CLASSIFICATION`
+CRUD workflows
 
-<div align="center">
+Ordering workflow
 
-<img src="https://img.shields.io/badge/AI_ENGINE-CNN-7C3AED?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/ACCURACY-92%25-00F5FF?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/VISION-OPENCV-FF00AA?style=for-the-badge&labelColor=050816">
+Responsive interface
 
-</div>
+Java web development
 
-<table>
-<tr>
+2 — RICE VISION AI
 
-<td width="40%" align="center">
+Computer Vision / CNN / Image Classification
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="190" alt="Rice Vision AI stack">
+Rice Vision AI is a computer-vision project designed to classify five rice varieties.
 
-<br><br>
+Rice Classes
 
-### AI PIPELINE
+Arborio
 
-```text
+Basmati
+
+Ipsala
+
+Jasmine
+
+Karacadag
+
+AI Pipeline
+
 IMAGE
   │
   ▼
@@ -409,75 +610,46 @@ CLASSIFY
   │
   ▼
 PREDICT
-```
 
-</td>
+Technologies
 
-<td width="60%">
+Python
 
-A CNN-based computer-vision project designed to classify **five rice varieties**.
+TensorFlow
 
-### CORE TECHNOLOGY
+CNN
 
-`Python`
+OpenCV
 
-`TensorFlow`
+Machine Learning
 
-`CNN`
+Capabilities
 
-`OpenCV`
+📸 Image classification
 
-### CAPABILITIES
+🧠 Deep learning
 
-* 📸 Image classification
-* 🧠 Deep learning
-* 🔬 Image preprocessing
-* 👁️ Computer vision
-* 📊 Prediction workflow
-* 🤖 AI-based classification
+🔬 Image preprocessing
 
-### REPORTED RESULT
+👁️ Computer vision
 
-# 92%
+📊 Prediction workflow
 
-**classification accuracy**
+🤖 AI-based classification
 
-<br>
+Reported Result
 
-<a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
-<img src="https://img.shields.io/badge/◈_SOURCE_CODE-GITHUB-181717?style=for-the-badge&logo=github">
-</a>
+92%
+CLASSIFICATION ACCURACY
 
-<a href="https://rice-classification-ai-model.onrender.com/login">
-<img src="https://img.shields.io/badge/⚡_LIVE_APPLICATION-00C7B7?style=for-the-badge&logo=render">
-</a>
+3 — CREDIT SCORE PREDICTOR
 
-</td>
+Machine Learning / Financial Risk / Data
 
-</tr>
-</table>
+A machine-learning project focused on creditworthiness prediction and financial risk analysis.
 
----
+Prediction Pipeline
 
-# ◈ PROJECT_03 — CREDIT SCORE PREDICTOR
-
-### `MACHINE LEARNING / FINANCIAL RISK / DATA`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/DATA_PIPELINE-00F5FF?style=for-the-badge&labelColor=050816">
-
-</div>
-
-<table>
-<tr>
-
-<td width="60%">
-
-### PREDICTION PIPELINE
-
-```text
 RAW DATA
    │
    ▼
@@ -497,219 +669,248 @@ EVALUATION
    │
    ▼
 PREDICTION
-```
 
-### FOCUS
+Focus Areas
 
-* Data preprocessing
-* Feature engineering
-* Machine learning
-* Model evaluation
-* Creditworthiness prediction
-* Financial risk analysis
-* Predictive analytics
+Data preprocessing
 
-### TECHNOLOGY
+Feature engineering
 
-`Python` `Scikit-learn` `MySQL` `Excel`
+Machine learning
 
-</td>
+Model evaluation
 
-<td width="40%" align="center">
+Creditworthiness prediction
 
-<img src="https://skillicons.dev/icons?i=python,mysql" width="170" alt="Credit Score Predictor stack">
+Financial risk analysis
 
-<br><br>
+Predictive analytics
 
-```text
+Technologies
+
+Python
+
+Scikit-learn
+
+MySQL
+
+Excel
+
+Data-to-Prediction Flow
+
 DATA
-  +
+ +
 MODEL
-  +
+ +
 ANALYTICS
-  │
-  ▼
+     │
+     ▼
 PREDICTION
-```
 
-</td>
+◈ EXPERIENCE
 
-</tr>
-</table>
+AI & Machine Learning Intern
 
----
+SmartBridge — APSCHE
 
-# 🎬 05 / MOTION ENGINE
+Technology Stack
 
-<div align="center">
+Python
+Scikit-learn
+Pandas
+NumPy
 
-## THE PORTFOLIO IS NOT JUST A PAGE.
+Focus
 
-### IT IS AN INTERACTIVE EXPERIENCE.
+Machine-learning fundamentals
 
-</div>
+Data preprocessing
 
-### 🌌 VISUAL MOTION
+Feature engineering
 
-```text
-✦ Animated Gradient Field
-✦ Floating Light Orbs
-✦ Particle Network
-✦ Dynamic Glow
-✦ Depth Layers
-✦ Ambient Lighting
-✦ Mouse Parallax
-✦ Cinematic Background Motion
-```
+Model evaluation
 
-### 🖱️ INTERACTION ENGINE
+Analytical problem solving
 
-```text
-✦ Custom Cursor
-✦ Cursor Glow
-✦ Magnetic Buttons
-✦ 3D Tilt Cards
-✦ Hover Expansion
-✦ Perspective Motion
-✦ Interactive Project Cards
-✦ Animated Modals
-✦ Smooth State Transitions
-```
+Quantum Computing Intern
 
-### 📜 SCROLL ENGINE
+SkillDzire — APSCHE
 
-```text
-✦ Section Reveal
-✦ Stagger Animation
-✦ Timeline Drawing
-✦ Counter Animation
-✦ Image Reveal
-✦ Progress Animation
-✦ Scroll Parallax
-✦ Viewport-Based Motion
-```
+Focus
 
-### ⚛️ REACT MOTION ENGINE
+Quantum Computing
 
-```text
-                    COMPONENT
-                        │
-                        ▼
-                    MOTION STATE
-                        │
-                        ▼
-                  SPRING / TWEEN
-                        │
-                        ▼
-                     GESTURE
-                        │
-                        ▼
-                   TRANSITION
-                        │
-                        ▼
-               INTERACTIVE EXPERIENCE
-```
+Quantum Gates
 
-### MOTION PRINCIPLES
+Quantum Algorithms
 
-`ENTER` → `REVEAL` → `RESPOND` → `TRANSFORM` → `EXIT`
+Areas
 
----
+Qubits
 
-# 💎 06 / VISUAL DESIGN SYSTEM
+Superposition
 
-<div align="center">
+Quantum gates
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         VISUAL DNA                                  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  DARK SPACE       #050816       →  DEPTH                            ║
-║  ELECTRIC CYAN    #00F5FF       →  INTERACTION                     ║
-║  VIOLET CORE      #7C3AED       →  INTELLIGENCE                    ║
-║  MAGENTA PULSE    #FF00AA       →  CREATIVE ENERGY                 ║
-║  BLUE ELECTRIC    #2563EB       →  TECHNOLOGY                      ║
-║  GREEN SIGNAL     #00FFA3       →  SUCCESS                         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+Quantum algorithms
 
-</div>
+Emerging computational models
 
-### VISUAL PRINCIPLES
+◈ EDUCATION
 
-**Dark cinematic surfaces**
+Period
 
-→ depth
+Qualification
 
-**Electric cyan**
+Institution
 
-→ interaction
+Result
 
-**Violet**
+2022 — 2026
 
-→ intelligence
+B.Tech — AI & Data Science
 
-**Magenta**
+Kandula Obul Reddy Memorial College of Engineering, Kadapa
 
-→ creative energy
+8.3 CGPA
 
-**Emerald**
+2020 — 2022
 
-→ system status
+Intermediate — MPC
 
-**Glass surfaces**
+Swamy Vivekananda Junior College, Anantapur
 
-→ modern depth
+77.5%
 
-**Glow**
+2020
 
-→ hierarchy
+Secondary School Certificate
 
-**Motion**
+Z.P. High School, Peddapappur
 
-→ feedback
+92.66%
 
-**Contrast**
+◈ ACHIEVEMENT
 
-→ readability
+🥈 TOP 2 PERFORMER
 
----
+Ranked among the Top 2 performers in the B.Tech Artificial Intelligence & Data Science program.
 
-# 🧊 07 / UX ARCHITECTURE
+◈ ANALYTICS & GITHUB
 
-<div align="center">
+The portfolio includes dedicated sections for:
 
-```text
-                              USER
-                               │
-                               ▼
-                         ┌───────────┐
-                         │   HERO    │
-                         └─────┬─────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-          ABOUT             SKILLS            PROJECTS
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                          EXPERIENCE
-                               │
-                               ▼
-                           EDUCATION
-                               │
-                               ▼
-                           ANALYTICS
-                               │
-                               ▼
-                            CONTACT
-```
+GitHub telemetry
 
-### EXPERIENCE PRINCIPLE
+Contribution activity
 
-```text
+Development analytics
+
+Contribution matrix
+
+Engineering statistics
+
+The visual system is designed to present analytics as an interactive component rather than a static data table.
+
+◈ CAREER TRAJECTORY
+
+The portfolio represents a progression from software development toward intelligent software engineering.
+
+┌─────────────────────────┐
+│     JAVA FULL STACK     │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│   BACKEND ENGINEERING   │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│    DATABASE SYSTEMS     │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│    DATA & ANALYTICS     │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│   AI / MACHINE LEARNING │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│   INTELLIGENT SOFTWARE  │
+└─────────────────────────┘
+
+◈ CURRENT DIRECTION
+
+Domain
+
+Direction
+
+💻 Software
+
+Java Full Stack Development
+
+⚛️ Frontend
+
+React + Modern JavaScript
+
+🗄️ Backend
+
+Java + Database Systems
+
+🤖 AI
+
+Machine Learning
+
+👁️ Vision
+
+Computer Vision
+
+📊 Data
+
+Analytics & Visualization
+
+🎨 Design
+
+Interactive UI / UX
+
+🚀 Goal
+
+Production-Oriented Applications
+
+◈ UX ARCHITECTURE
+
+The portfolio follows this primary experience hierarchy:
+
+                         USER
+                           │
+                           ▼
+                        HERO
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+        ABOUT            SKILLS           PROJECTS
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                       EXPERIENCE
+                           │
+                           ▼
+                       EDUCATION
+                           │
+                           ▼
+                        ANALYTICS
+                           │
+                           ▼
+                         CONTACT
+
+Experience Principle
+
 HIERARCHY
     ↓
 MOTION
@@ -721,261 +922,996 @@ ACCESSIBILITY
 RESPONSIVENESS
     ↓
 CLARITY
-```
 
----
+◈ ANIMATION ARCHITECTURE
 
-# 💼 08 / EXPERIENCE
+The motion layer is structured around user input and visual response.
 
-<table>
-<tr>
-<td width="50%">
+USER
+ │
+ ├── Mouse
+ ├── Hover
+ ├── Click
+ ├── Scroll
+ ├── Keyboard
+ └── Touch
+ │
+ ▼
+INTERACTION STATE
+ │
+ ▼
+MOTION STATE
+ │
+ ▼
+TRANSITION ENGINE
+ │
+ ├── Transform
+ ├── Opacity
+ ├── Filter
+ ├── Shadow
+ ├── Scale
+ └── Rotation
+ │
+ ▼
+VISUAL RESPONSE
 
-## 🤖 AI & MACHINE LEARNING INTERN
+◈ CARD INTERACTION
 
-### SmartBridge — APSCHE
+Cards support multiple interaction layers.
 
-**STACK**
+REST
+ ↓
+HOVER
+ ↓
+LIFT
+ ↓
+GLOW
+ ↓
+DEPTH
+ ↓
+CONTENT RESPONSE
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
+Typical effects include:
 
-### FOCUS
+translateY
 
-* Machine-learning fundamentals
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-* Analytical problem solving
+scale
 
-</td>
+perspective
 
-<td width="50%">
+glow
 
-## ⚛️ QUANTUM COMPUTING INTERN
+border illumination
 
-### SkillDzire — APSCHE
+gradient sweep
 
-**FOCUS**
+icon movement
 
-`Quantum Computing` `Quantum Gates` `Quantum Algorithms`
+text elevation
 
-### AREAS
+shadow expansion
 
-* Qubits
-* Superposition
-* Quantum gates
-* Quantum algorithms
-* Emerging computational models
+◈ BUTTON INTERACTION
 
-</td>
-</tr>
-</table>
+Buttons provide visual feedback for:
 
----
+Hover
 
-# 🎓 09 / EDUCATION
+Focus
 
-<div align="center">
+Active
 
-|      PERIOD     | QUALIFICATION                | INSTITUTION                                                |    RESULT    |
-| :-------------: | :--------------------------- | :--------------------------------------------------------- | :----------: |
-| **2022 — 2026** | B.Tech — AI & Data Science   | Kandula Obul Reddy Memorial College of Engineering, Kadapa | **8.3 CGPA** |
-| **2020 — 2022** | Intermediate — MPC           | Swamy Vivekananda Junior College, Anantapur                |   **77.5%**  |
-|     **2020**    | Secondary School Certificate | Z.P. High School, Peddapappur                              |  **92.66%**  |
+Keyboard interaction
 
-</div>
+Touch interaction
 
----
+Interaction model:
 
-# 🏆 10 / ACHIEVEMENTS
+REST
+ │
+ ▼
+HOVER
+ │
+ ├── LIFT
+ ├── GLOW
+ └── SHINE
+ │
+ ▼
+ACTIVE
+ │
+ ▼
+RELEASE
 
-<div align="center">
+◈ SCROLL REVEAL SYSTEM
 
-<img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING-SMARTBRIDGE-7C3AED?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/BIG_DATA-NPTEL-00F5FF?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/QUANTUM_COMPUTING-SKILLDZIRE-FF00AA?style=for-the-badge&labelColor=050816">
-<img src="https://img.shields.io/badge/TOP_2_PERFORMER-AI_%26_DATA_SCIENCE-00FFA3?style=for-the-badge&labelColor=050816">
+Content enters the interface progressively.
 
-</div>
+OUT OF VIEW
+     │
+     ▼
+VIEWPORT DETECTION
+     │
+     ▼
+REVEAL
+     │
+     ▼
+FADE
+     │
+     ▼
+TRANSLATE
+     │
+     ▼
+SETTLE
 
-<br>
+Staggered timing is used for:
 
-### 🥈 TOP 2 PERFORMER
+Project cards
 
-Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Data Science program.
+Skill cards
 
----
+Technology cards
 
-# 📊 11 / GITHUB TELEMETRY
+Experience cards
 
-<div align="center">
+Education cards
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=050816" width="49%" alt="GitHub statistics">
+Analytics cards
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth2662777&theme=radical&hide_border=true&background=050816" width="49%" alt="GitHub streak">
+Career steps
 
-<br><br>
+◈ TIMELINE ANIMATION
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=donut-vertical&theme=radical&hide_border=true&bg_color=050816" width="42%" alt="Top languages">
+The experience timeline uses a progressive drawing effect.
 
-</div>
+START
+ │
+ ▼
+TIMELINE LINE
+ │
+ ▼
+NODE
+ │
+ ▼
+EXPERIENCE CARD
+ │
+ ▼
+NEXT NODE
 
----
+Hovering a timeline node can increase:
 
-# 🌌 12 / CONTRIBUTION MATRIX
+Scale
 
-<div align="center">
+Glow
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&bg_color=050816&color=00F5FF&line=7C3AED&point=FF00AA&area=true&hide_border=true&custom_title=CHELIMALA%20HEMANTH%20%E2%80%94%20CONTRIBUTION%20MATRIX" width="100%" alt="GitHub contribution activity">
+Border emphasis
 
-<br><br>
+Visual hierarchy
 
-<img src="https://raw.githubusercontent.com/hemanth2662777/hemanth2662777/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+◈ RESPONSIVE DESIGN
 
-</div>
+The portfolio is designed for:
 
----
+Desktop
 
-# 🧭 13 / CAREER TRAJECTORY
+Laptop
 
-<div align="center">
+Tablet
 
-```text
-             ┌─────────────────────────┐
-             │     JAVA FULL STACK     │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   BACKEND ENGINEERING  │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │    DATABASE SYSTEMS    │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │    DATA & ANALYTICS    │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   AI / MACHINE LEARNING│
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   INTELLIGENT SOFTWARE │
-             └─────────────────────────┘
-```
+Mobile
 
-</div>
+Touch devices
 
----
+Responsive behavior includes:
 
-# ⚡ 14 / ENGINEERING MINDSET
+DESKTOP
+   │
+   ▼
+LAPTOP
+   │
+   ▼
+TABLET
+   │
+   ▼
+MOBILE
 
-<div align="center">
+Animation intensity is reduced on smaller and touch-based devices where appropriate.
 
-### DON'T JUST WRITE CODE.
+◈ ACCESSIBILITY
 
-## DESIGN THE SYSTEM.
+Accessibility is part of the motion architecture.
 
-<br>
+Reduced Motion
 
-### DON'T JUST BUILD FEATURES.
+The CSS supports:
 
-## DESIGN THE EXPERIENCE.
+@media (prefers-reduced-motion: reduce) {
+    /* Motion is minimized */
+}
 
-<br>
+This prevents unnecessary animation for users who request reduced motion.
 
-### DON'T JUST TRAIN MODELS.
+Keyboard Focus
 
-## SOLVE PROBLEMS.
+Interactive controls provide visible focus states.
 
-<br>
+Touch Devices
 
-### DON'T STOP AT WORKING.
+Hover-dependent effects are reduced or removed on touch interfaces.
 
-## KEEP IMPROVING.
+◈ PERFORMANCE
 
-</div>
+The animation system favors GPU-friendly properties.
 
----
+Preferred
 
-# 🎯 15 / CURRENT DIRECTION
+transform
+opacity
+filter
 
-<div align="center">
+Performance Techniques
 
-|    DOMAIN   | DIRECTION                        |
-| :---------: | :------------------------------- |
-| 💻 Software | Java Full Stack Development      |
-| ⚛️ Frontend | React + Modern JavaScript        |
-| 🗄️ Backend | Java + Database Systems          |
-|    🤖 AI    | Machine Learning                 |
-|  👁️ Vision | Computer Vision                  |
-|   📊 Data   | Analytics & Visualization        |
-|  🎨 Design  | Interactive UI / UX              |
-|   🚀 Goal   | Production-Oriented Applications |
+Hardware-friendly transforms
 
-</div>
+will-change where appropriate
 
----
+backface-visibility
 
-# 🤝 16 / CONNECT
+Reduced layout recalculation
 
-<div align="center">
+Mobile animation tuning
 
-# LET'S BUILD SOMETHING GREAT.
+Reduced-motion support
 
-<br>
+Efficient transition timing
 
-<a href="mailto:hemanth2662n@gmail.com">
-<img src="https://img.shields.io/badge/✉_EMAIL-00F5FF?style=for-the-badge&labelColor=050816">
-</a>
+The objective is to maintain visual quality without turning every component into a continuously expensive animation.
 
- 
+◈ PROJECT STRUCTURE
 
-<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-<img src="https://img.shields.io/badge/◈_LINKEDIN-7C3AED?style=for-the-badge&labelColor=050816">
-</a>
+Recommended repository structure:
 
- 
+portfolio/
+│
+├── index.html
+│
+├── about.html
+├── projects.html
+├── experience.html
+├── education.html
+├── contact.html
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── fonts/
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   ├── animations.css
+│   └── themes.css
+│
+├── js/
+│   ├── main.js
+│   ├── animations.js
+│   ├── cursor.js
+│   ├── navigation.js
+│   └── projects.js
+│
+├── README.md
+├── .gitignore
+└── LICENSE
 
-<a href="https://github.com/hemanth2662777">
-<img src="https://img.shields.io/badge/◉_GITHUB-FF00AA?style=for-the-badge&labelColor=050816">
-</a>
+The exact structure should match the actual files in the repository.
 
-<br><br>
+◈ GETTING STARTED
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1900&pause=550&color=00F5FF&center=true&vCenter=true&width=850&lines=BUILD.;LEARN.;EXPERIMENT.;BREAK.;FIX.;IMPROVE.;SHIP.;REPEAT." alt="Animated closing message">
+Requirements
 
-</div>
+For a static portfolio:
 
----
+Modern web browser
 
-<div align="center">
+VS Code or another editor
 
-<img src="./assets/footer.gif" width="100%" alt="Animated portfolio footer">
+Git
 
-<br><br>
+Optional: VS Code Live Server
 
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│       ◈ BUILD       ◈ LEARN       ◈ IMPROVE       ◈ REPEAT           │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
+Recommended browsers:
 
-<br>
+Google Chrome
 
-`JAVA` • `PYTHON` • `REACT` • `JAVASCRIPT` • `SQL` • `AI` • `ML`
+Microsoft Edge
 
-<br><br>
+Mozilla Firefox
 
-<sub>CHELIMALA HEMANTH • AI & DATA SCIENCE • JAVA FULL STACK</sub>
+◈ INSTALLATION
 
-</div>
+1. Clone the Repository
+
+git clone YOUR_REPOSITORY_URL
+
+2. Enter the Project
+
+cd portfolio
+
+3. Open the Project
+
+Open the folder in VS Code.
+
+code .
+
+4. Start the Website
+
+If using VS Code Live Server:
+
+Right Click index.html
+        ↓
+Open with Live Server
+
+Or simply open index.html in a browser for a static version.
+
+◈ LOCAL DEVELOPMENT
+
+Recommended development workflow:
+
+VS CODE
+   │
+   ▼
+LIVE SERVER
+   │
+   ▼
+BROWSER
+   │
+   ▼
+DEVTOOLS
+   │
+   ├── Console
+   ├── Elements
+   ├── Network
+   └── Performance
+
+When modifying animations:
+
+Update the CSS.
+
+Refresh the browser.
+
+Inspect the element.
+
+Test hover behavior.
+
+Test keyboard navigation.
+
+Test mobile viewport.
+
+Test reduced-motion mode.
+
+Check browser console.
+
+Check performance.
+
+Commit the changes.
+
+◈ ANIMATION FILE
+
+The dedicated animation stylesheet is:
+
+animations.css
+
+It contains:
+
+Global transition tokens
+
+Hero animations
+
+Section reveals
+
+Card hovers
+
+Project interactions
+
+Button effects
+
+Tag effects
+
+Timeline animation
+
+Modal transitions
+
+Image reveals
+
+Custom cursor
+
+Tilt support
+
+Ambient animation
+
+Particle animation
+
+Scroll progress
+
+Responsive motion
+
+Accessibility motion controls
+
+◈ CSS MOTION TOKENS
+
+The animation system uses reusable timing and easing variables.
+
+--motion-fast
+--motion-ui
+--motion-base
+--motion-smooth
+--motion-slow
+--motion-cinematic
+
+And reusable easing curves:
+
+--ease-standard
+--ease-emphasized
+--ease-enter
+--ease-exit
+--ease-spring
+--ease-spring-soft
+
+This allows the animation language to remain consistent throughout the portfolio.
+
+◈ REUSABLE MOTION UTILITIES
+
+The animation stylesheet includes reusable classes such as:
+
+.hover-lift
+.hover-glow-cyan
+.hover-glow-violet
+.hover-glow-green
+.hover-scale
+.hover-rotate
+
+.reveal-up
+.reveal-left
+.reveal-right
+.reveal-scale
+
+These can be applied to new components without creating a completely new animation for each element.
+
+◈ CUSTOM CURSOR
+
+Desktop pointer devices can use:
+
+.cursor-dot
+.cursor-ring
+
+The cursor system supports:
+
+Cursor glow
+
+Hover expansion
+
+Interactive-state changes
+
+Screen-safe positioning
+
+Touch devices automatically disable the custom cursor.
+
+◈ 3D TILT
+
+Components can optionally use:
+
+.tilt-card
+.tilt-content
+
+The system supports:
+
+Perspective
+
+X-axis rotation
+
+Y-axis rotation
+
+Depth
+
+Elevated content
+
+Interactive shadow
+
+The effect should be used selectively to prevent visual overload.
+
+◈ MODALS
+
+The animation layer supports modal states such as:
+
+CLOSED
+  ↓
+OPENING
+  ↓
+OPEN
+  ↓
+CLOSING
+  ↓
+CLOSED
+
+The modal system supports:
+
+Fade
+
+Blur
+
+Scale
+
+Perspective
+
+Content entrance
+
+Smooth exit
+
+◈ IMAGE INTERACTION
+
+Image components can use the image-reveal system.
+
+Effects include:
+
+Zoom
+
+Saturation change
+
+Contrast enhancement
+
+Gradient sweep
+
+Hover reveal
+
+◈ GITHUB WORKFLOW
+
+Recommended Git workflow:
+
+git status
+git add .
+git commit -m "feat: enhance portfolio motion system"
+git push origin main
+
+For future changes:
+
+git pull
+git add .
+git commit -m "update: improve portfolio interactions"
+git push
+
+◈ DEPLOYMENT
+
+This project can be deployed as a static website using services such as:
+
+GitHub Pages
+
+Netlify
+
+Vercel
+
+Cloudflare Pages
+
+For GitHub Pages, the repository should contain the entry page at the expected root path.
+
+Example:
+
+repository/
+│
+├── index.html
+├── css/
+├── js/
+└── assets/
+
+◈ SEO CHECKLIST
+
+Before production deployment:
+
+Add a unique <title>
+
+Add a meta description
+
+Add viewport metadata
+
+Add semantic HTML
+
+Add descriptive image alt attributes
+
+Add Open Graph metadata
+
+Add Twitter/X card metadata if required
+
+Create robots.txt
+
+Create sitemap.xml
+
+Verify canonical URL
+
+Test page indexing
+
+◈ QUALITY CHECKLIST
+
+Before pushing the final version:
+
+UI
+
+Desktop layout checked
+
+Tablet layout checked
+
+Mobile layout checked
+
+Typography checked
+
+Spacing checked
+
+Colors checked
+
+Contrast checked
+
+Interaction
+
+Navigation works
+
+Buttons work
+
+Links work
+
+Project cards work
+
+Hover states work
+
+Focus states work
+
+Modals work
+
+Mobile menu works
+
+Animation
+
+Hero animation works
+
+Section reveal works
+
+Card hover works
+
+Button hover works
+
+Scroll animation works
+
+Timeline animation works
+
+Cursor works on desktop
+
+Touch behavior works
+
+Reduced motion works
+
+Performance
+
+No console errors
+
+Images optimized
+
+CSS optimized
+
+JavaScript optimized
+
+No unnecessary animation loops
+
+Lighthouse checked
+
+◈ SECURITY / REPOSITORY HYGIENE
+
+Do not commit sensitive information.
+
+Never upload:
+
+.env
+API keys
+passwords
+database credentials
+private tokens
+secret keys
+personal access tokens
+
+Use .gitignore to exclude sensitive or unnecessary files.
+
+Example:
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build output
+dist/
+build/
+
+# Node
+node_modules/
+
+If the project contains public frontend API keys, verify whether the API provider considers them safe for client-side use before publishing the repository.
+
+◈ BROWSER DEVTOOLS
+
+For debugging:
+
+F12
+ │
+ ├── Elements
+ ├── Console
+ ├── Network
+ ├── Performance
+ ├── Application
+ └── Lighthouse
+
+Recommended checks:
+
+Console
+
+Look for JavaScript errors.
+
+Network
+
+Check:
+
+Images
+
+CSS
+
+JavaScript
+
+Fonts
+
+API requests
+
+Performance
+
+Check:
+
+Animation frame rate
+
+Layout shifts
+
+Long tasks
+
+Paint operations
+
+Lighthouse
+
+Check:
+
+Performance
+
+Accessibility
+
+Best Practices
+
+SEO
+
+◈ ENGINEERING MINDSET
+
+DON'T JUST WRITE CODE.
+
+DESIGN THE SYSTEM.
+
+DON'T JUST BUILD FEATURES.
+
+DESIGN THE EXPERIENCE.
+
+DON'T JUST TRAIN MODELS.
+
+SOLVE PROBLEMS.
+
+DON'T STOP AT WORKING.
+
+KEEP IMPROVING.
+
+◈ DEVELOPMENT PRINCIPLES
+
+PLAN
+ ↓
+ARCHITECT
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+MEASURE
+ ↓
+OPTIMIZE
+ ↓
+DEPLOY
+ ↓
+IMPROVE
+
+The portfolio is intended to demonstrate not only technologies but also an approach to building complete systems and interactive experiences.
+
+◈ FUTURE IMPROVEMENTS
+
+Potential future improvements include:
+
+Advanced mouse parallax
+
+WebGL background
+
+Three.js visual layer
+
+Advanced 3D interactions
+
+GitHub API integration
+
+Live contribution statistics
+
+Dynamic project filtering
+
+Interactive project demonstrations
+
+Advanced project modal system
+
+Contact form backend
+
+Theme switching
+
+Advanced page transitions
+
+Improved mobile navigation
+
+Lighthouse optimization
+
+SEO optimization
+
+Structured data / JSON-LD
+
+Accessibility audit
+
+Automated deployment
+
+Automated testing
+
+◈ CONTRIBUTING
+
+This is primarily a personal portfolio project.
+
+However, constructive suggestions, bug reports, UI/UX ideas, and technical feedback are welcome.
+
+If contributing:
+
+Fork the repository.
+
+Create a feature branch.
+
+Make your changes.
+
+Test desktop and mobile.
+
+Check accessibility.
+
+Check browser console.
+
+Commit your changes.
+
+Open a pull request.
+
+Example:
+
+git checkout -b feature/improved-motion
+git add .
+git commit -m "feat: improve motion interactions"
+git push origin feature/improved-motion
+
+◈ CONNECT
+
+LET'S BUILD SOMETHING GREAT.
+
+Interested in:
+
+Java Full Stack Development
+
+Backend Engineering
+
+Database Systems
+
+Artificial Intelligence
+
+Machine Learning
+
+Computer Vision
+
+Data Analytics
+
+Interactive UI/UX
+
+Production-oriented applications
+
+Connect for collaboration, opportunities, and technical discussions.
+
+◈ DEVELOPER
+
+CHELIMALA HEMANTH
+
+Java Full Stack Developer • AI & Data Science
+
+JAVA • PYTHON • REACT • JAVASCRIPT • SQL • AI • ML
+
+◈ PORTFOLIO SYSTEM
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                    CHELIMALA HEMANTH                        │
+│                                                             │
+│             JAVA FULL STACK • AI & DATA SCIENCE             │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   SOFTWARE  ×  DATA  ×  AI  ×  DESIGN  ×  UX              │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│       BUILD  →  TEST  →  DEPLOY  →  EVOLVE                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+◈ TECHNOLOGY FLOW
+
+JAVA
+ │
+ ▼
+BACKEND
+ │
+ ▼
+DATABASE
+ │
+ ▼
+DATA
+ │
+ ▼
+MACHINE LEARNING
+ │
+ ▼
+ARTIFICIAL INTELLIGENCE
+ │
+ ▼
+INTELLIGENT SOFTWARE
+
+◈ FINAL MESSAGE
+
+BUILD • LEARN • IMPROVE • REPEAT
+
+The goal is not simply to create another portfolio website.
+
+The goal is to demonstrate how software, intelligence, data, design, and interaction can work together to create a complete digital experience.
+
+📜 LICENSE
+
+This project is primarily intended as a personal developer portfolio and learning/portfolio demonstration.
+
+If substantial portions of the source, design, or implementation are reused, appropriate attribution is appreciated.
+
+<p align="center">
+  <strong>CHELIMALA HEMANTH</strong>
+  <br>
+  AI & DATA SCIENCE • JAVA FULL STACK
+  <br><br>
+  <code>JAVA</code> •
+  <code>PYTHON</code> •
+  <code>REACT</code> •
+  <code>JAVASCRIPT</code> •
+  <code>SQL</code> •
+  <code>AI</code> •
+  <code>ML</code>
+</p>
