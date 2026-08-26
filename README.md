@@ -6,14 +6,12 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=JAVA+FULL+STACK+DEVELOPER;AI+%26+DATA+SCIENCE+GRADUATE;FULL+STACK+%7C+AI+%7C+DATA+%7C+UI%2FUX;BUILDING+INTELLIGENT+APPLICATIONS;ENGINEERING+INTERACTIVE+DIGITAL+EXPERIENCES;CODE+IS+THE+MEDIUM.+IMPACT+IS+THE+GOAL." alt="Animated developer introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1600&pause=350&color=00F5FF&center=true&vCenter=true&width=1000&lines=JAVA+FULL+STACK+DEVELOPER;AI+%26+DATA+SCIENCE+GRADUATE;FULL+STACK+%7C+AI+%7C+DATA+%7C+UI%2FUX;BUILDING+INTELLIGENT+APPLICATIONS;ENGINEERING+INTERACTIVE+EXPERIENCES;CODE+%E2%86%92+SYSTEMS+%E2%86%92+IMPACT" alt="Animated developer introduction">
 
 <br>
 
 <img src="https://img.shields.io/badge/◉_SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/◈_MODE-BUILDING-7C3AED?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/⚡_STATUS-LEARNING-FF00AA?style=for-the-badge&labelColor=050816">
 
 <br><br>
@@ -21,21 +19,19 @@
 <a href="https://github.com/hemanth2662777">
 <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816">
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
 <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816">
 </a>
-
+&nbsp;
 <a href="mailto:hemanth2662n@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-FF00AA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=VISITORS&color=00F5FF&style=for-the-badge">
-
+<img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/hemanth2662777?label=FOLLOWERS&style=for-the-badge&color=7C3AED">
-
 <img src="https://img.shields.io/github/stars/hemanth2662777?label=STARS&style=for-the-badge&color=FF00AA">
 
 </div>
@@ -45,13 +41,15 @@
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║       ◈ CODE          ◈ DATA          ◈ AI          ◈ DESIGN     ║
-║                                                                  ║
-║                    BUILD • EXPLORE • EVOLVE                      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║       ◈ CODE       ◈ DATA       ◈ AI       ◈ DESIGN       ◈ UX       ║
+║                                                                      ║
+║                 BUILD  •  EXPLORE  •  EVOLVE                        ║
+║                                                                      ║
+║          SOFTWARE × INTELLIGENCE × INTERACTIVE EXPERIENCE            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -60,7 +58,7 @@
 
 <div align="center">
 
-**[ABOUT]** ── **[STACK]** ── **[PROJECTS]** ── **[EXPERIENCE]** ── **[EDUCATION]** ── **[ANALYTICS]** ── **[CONTACT]**
+**[ ABOUT ]** ─── **[ STACK ]** ─── **[ PROJECTS ]** ─── **[ EXPERIENCE ]** ─── **[ EDUCATION ]** ─── **[ ANALYTICS ]** ─── **[ CONNECT ]**
 
 </div>
 
@@ -78,54 +76,63 @@
 <br><br>
 
 ```text
-┌───────────────────────┐
-│   CHELIMALA HEMANTH   │
-├───────────────────────┤
-│ JAVA FULL STACK       │
-│ AI & DATA SCIENCE     │
-│ SOFTWARE ENGINEERING  │
-└───────────────────────┘
+┌─────────────────────────┐
+│     CHELIMALA HEMANTH   │
+├─────────────────────────┤
+│ JAVA FULL STACK         │
+│ AI & DATA SCIENCE       │
+│ SOFTWARE ENGINEERING    │
+│ MACHINE LEARNING        │
+└─────────────────────────┘
 ```
 
 </td>
 
 <td width="68%">
 
-## Building at the intersection of software, data and intelligence.
+## Building where software meets intelligence.
 
-I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science graduate** focused on **Java Full Stack Development, backend systems, databases, machine learning, analytics and interactive web experiences**.
+I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science graduate** focused on **Java Full Stack Development, backend engineering, databases, machine learning, analytics and interactive web experiences**.
 
-I enjoy taking an idea from the first concept to a working application:
+I enjoy transforming ideas into complete working systems:
 
 ```text
-IDEA
- ↓
-ARCHITECTURE
- ↓
-UI / UX
- ↓
-CODE
- ↓
-DATABASE
- ↓
-AI / LOGIC
- ↓
-TEST
- ↓
-DEPLOY
- ↓
-IMPROVE
+                    IDEA
+                     │
+                     ▼
+                ARCHITECTURE
+                     │
+                     ▼
+                   UI / UX
+                     │
+                     ▼
+                    CODE
+                     │
+                     ▼
+                  DATABASE
+                     │
+                     ▼
+                AI / LOGIC
+                     │
+                     ▼
+                   TEST
+                     │
+                     ▼
+                  DEPLOY
+                     │
+                     ▼
+                 IMPROVE
 ```
 
-### Current Engineering Focus
+### CURRENT ENGINEERING FOCUS
 
 `Java` `JavaScript` `React` `Python` `SQL` `MySQL`
 
-### Intelligence Layer
+### INTELLIGENCE LAYER
 
 `Machine Learning` `TensorFlow` `CNN` `OpenCV`
 
-### Experience Layer
+### EXPERIENCE LAYER
 
 `HTML5` `CSS3` `Responsive UI` `Animations` `Interactive UX`
 
@@ -136,26 +143,26 @@ IMPROVE
 
 ---
 
-# ◈ 02 / DEVELOPER CORE
+# ⚡ 02 / DEVELOPER CORE
 
 <div align="center">
 
-|        CORE       | TECHNOLOGY              | LEVEL OF FOCUS |
-| :---------------: | :---------------------- | :------------: |
-|     ⚡ Backend     | Java • JDBC • Servlets  |   █████████░   |
-|    🌐 Frontend    | HTML • CSS • JavaScript |   █████████░   |
-| ⚛️ UI Engineering | React • Interactive UX  |   ████████░░   |
-|    🗄️ Database   | SQL • MySQL             |   █████████░   |
-|     🤖 AI / ML    | Python • TensorFlow     |   ████████░░   |
-|     👁️ Vision    | CNN • OpenCV            |   ███████░░░   |
-|    📊 Analytics   | Power BI • Excel        |   ███████░░░   |
-|      🔧 Tools     | Git • GitHub • VS Code  |   █████████░   |
+|         CORE         | TECHNOLOGY              |     FOCUS    |
+| :------------------: | :---------------------- | :----------: |
+|       ⚡ Backend      | Java • JDBC • Servlets  | `█████████░` |
+|      🌐 Frontend     | HTML • CSS • JavaScript | `█████████░` |
+|   ⚛️ UI Engineering  | React • Interactive UX  | `████████░░` |
+|     🗄️ Database     | SQL • MySQL             | `█████████░` |
+|      🤖 AI / ML      | Python • TensorFlow     | `████████░░` |
+|  👁️ Computer Vision | CNN • OpenCV            | `███████░░░` |
+|     📊 Analytics     | Power BI • Excel        | `███████░░░` |
+| 🔧 Engineering Tools | Git • GitHub • VS Code  | `█████████░` |
 
 </div>
 
 ---
 
-# ⚡ 03 / TECHNOLOGY MATRIX
+# ⚙️ 03 / TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -163,11 +170,31 @@ IMPROVE
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,tensorflow,opencv,git,github,vscode" alt="Technology icons">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,tensorflow,opencv,git,github,vscode" alt="Technology stack">
+
+<br><br>
+
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│                         TECHNOLOGY FLOW                             │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  JAVA ────────────────► BACKEND ──────────────► DATABASE           │
+│    │                       │                        │               │
+│    ▼                       ▼                        ▼               │
+│  JDBC                  SERVLETS                  MySQL              │
+│                                                                    │
+│  JAVASCRIPT ──────────► REACT ───────────────► INTERACTIVE UI      │
+│                                                                    │
+│  PYTHON ──────────────► ML ──────────────────► INTELLIGENCE        │
+│                              │                                     │
+│                              ▼                                     │
+│                         TENSORFLOW / CNN                           │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
 
 </div>
-
-<br>
 
 <table>
 <tr>
@@ -246,27 +273,28 @@ IMPROVE
 <div align="center">
 
 ```text
-╭────────────────────────────────────────────────────────────╮
-│                    PROJECT LAB                            │
-│                                                            │
-│       SOFTWARE        ×        DATA        ×        AI     │
-╰────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│                         PROJECT LAB                                │
+│                                                                    │
+│       SOFTWARE       ×       DATA       ×       ARTIFICIAL         │
+│                                            INTELLIGENCE             │
+│                                                                    │
+│                 BUILD → TEST → DEPLOY → EVOLVE                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-## ◈ PROJECT_01 — TASTYTAP
+# ◈ PROJECT_01 — TASTYTAP
 
 ### `FULL-STACK / FOOD DELIVERY / DATABASE SYSTEM`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5FF?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/JAVA-BACKEND-FF8A00?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/MYSQL-DATABASE-00A8E8?style=for-the-badge&labelColor=050816">
 
 </div>
@@ -280,19 +308,24 @@ IMPROVE
 
 TastyTap is a responsive food-delivery application designed around a complete digital ordering workflow.
 
-### SYSTEM MODULES
+### SYSTEM PIPELINE
 
 ```text
 AUTHENTICATION
-      ↓
+      │
+      ▼
 RESTAURANTS
-      ↓
+      │
+      ▼
 MENU
-      ↓
+      │
+      ▼
 CART
-      ↓
+      │
+      ▼
 ORDER
-      ↓
+      │
+      ▼
 DATABASE
 ```
 
@@ -312,19 +345,23 @@ DATABASE
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" width="190" alt="TastyTap stack">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" width="190" alt="TastyTap technology stack">
 
 <br><br>
 
 ```text
 JAVA
-   +
+  │
+  ▼
 SERVLETS
-   +
+  │
+  ▼
 JDBC
-   +
+  │
+  ▼
 MYSQL
-   +
+  │
+  ▼
 JAVASCRIPT
 ```
 
@@ -342,9 +379,7 @@ JAVASCRIPT
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI_ENGINE-CNN-7C3AED?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/ACCURACY-92%25-00F5FF?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/VISION-OPENCV-FF00AA?style=for-the-badge&labelColor=050816">
 
 </div>
@@ -354,7 +389,7 @@ JAVASCRIPT
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="190">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="190" alt="Rice Vision AI stack">
 
 <br><br>
 
@@ -362,13 +397,17 @@ JAVASCRIPT
 
 ```text
 IMAGE
- ↓
+  │
+  ▼
 PREPROCESS
- ↓
+  │
+  ▼
 CNN
- ↓
+  │
+  ▼
 CLASSIFY
- ↓
+  │
+  ▼
 PREDICT
 ```
 
@@ -378,7 +417,7 @@ PREDICT
 
 A CNN-based computer-vision project designed to classify **five rice varieties**.
 
-### Core Technology
+### CORE TECHNOLOGY
 
 `Python`
 
@@ -388,7 +427,7 @@ A CNN-based computer-vision project designed to classify **five rice varieties**
 
 `OpenCV`
 
-### Project Capabilities
+### CAPABILITIES
 
 * 📸 Image classification
 * 🧠 Deep learning
@@ -397,7 +436,7 @@ A CNN-based computer-vision project designed to classify **five rice varieties**
 * 📊 Prediction workflow
 * 🤖 AI-based classification
 
-### Reported Result
+### REPORTED RESULT
 
 # 92%
 
@@ -427,7 +466,6 @@ A CNN-based computer-vision project designed to classify **five rice varieties**
 <div align="center">
 
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/DATA_PIPELINE-00F5FF?style=for-the-badge&labelColor=050816">
 
 </div>
@@ -441,17 +479,23 @@ A CNN-based computer-vision project designed to classify **five rice varieties**
 
 ```text
 RAW DATA
-   ↓
+   │
+   ▼
 CLEANING
-   ↓
+   │
+   ▼
 PREPROCESSING
-   ↓
+   │
+   ▼
 FEATURE ENGINEERING
-   ↓
+   │
+   ▼
 MODEL
-   ↓
+   │
+   ▼
 EVALUATION
-   ↓
+   │
+   ▼
 PREDICTION
 ```
 
@@ -473,7 +517,7 @@ PREDICTION
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" width="170">
+<img src="https://skillicons.dev/icons?i=python,mysql" width="170" alt="Credit Score Predictor stack">
 
 <br><br>
 
@@ -483,7 +527,8 @@ DATA
 MODEL
   +
 ANALYTICS
-  =
+  │
+  ▼
 PREDICTION
 ```
 
@@ -498,11 +543,13 @@ PREDICTION
 
 <div align="center">
 
-## The portfolio interface is engineered as an interactive experience.
+## THE PORTFOLIO IS NOT JUST A PAGE.
+
+### IT IS AN INTERACTIVE EXPERIENCE.
 
 </div>
 
-### 🌌 BACKGROUND ENGINE
+### 🌌 VISUAL MOTION
 
 ```text
 ✦ Animated Gradient Field
@@ -512,6 +559,7 @@ PREDICTION
 ✦ Depth Layers
 ✦ Ambient Lighting
 ✦ Mouse Parallax
+✦ Cinematic Background Motion
 ```
 
 ### 🖱️ INTERACTION ENGINE
@@ -525,6 +573,7 @@ PREDICTION
 ✦ Perspective Motion
 ✦ Interactive Project Cards
 ✦ Animated Modals
+✦ Smooth State Transitions
 ```
 
 ### 📜 SCROLL ENGINE
@@ -537,36 +586,33 @@ PREDICTION
 ✦ Image Reveal
 ✦ Progress Animation
 ✦ Scroll Parallax
+✦ Viewport-Based Motion
 ```
 
 ### ⚛️ REACT MOTION ENGINE
 
 ```text
-React Component
-       ↓
-Motion State
-       ↓
-Spring / Tween
-       ↓
-Gesture
-       ↓
-Transition
-       ↓
-Interactive Experience
+                    COMPONENT
+                        │
+                        ▼
+                    MOTION STATE
+                        │
+                        ▼
+                  SPRING / TWEEN
+                        │
+                        ▼
+                     GESTURE
+                        │
+                        ▼
+                   TRANSITION
+                        │
+                        ▼
+               INTERACTIVE EXPERIENCE
 ```
 
-Potential React implementation includes:
+### MOTION PRINCIPLES
 
-* Component entrance animation
-* Exit transitions
-* Scroll-triggered motion
-* Staggered children
-* Spring physics
-* Interactive cards
-* Modal transitions
-* Page transitions
-* Gesture interactions
-* Shared layout animation
+`ENTER` → `REVEAL` → `RESPOND` → `TRANSFORM` → `EXIT`
 
 ---
 
@@ -575,35 +621,35 @@ Potential React implementation includes:
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                     VISUAL DNA                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  █ DARK SPACE      #050816                                  ║
-║  █ CYAN ENERGY     #00F5FF                                  ║
-║  █ VIOLET CORE     #7C3AED                                  ║
-║  █ MAGENTA PULSE   #FF00AA                                  ║
-║  █ BLUE ELECTRIC   #2563EB                                  ║
-║  █ GREEN SIGNAL    #00FFA3                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                         VISUAL DNA                                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  DARK SPACE       #050816       →  DEPTH                            ║
+║  ELECTRIC CYAN    #00F5FF       →  INTERACTION                     ║
+║  VIOLET CORE      #7C3AED       →  INTELLIGENCE                    ║
+║  MAGENTA PULSE    #FF00AA       →  CREATIVE ENERGY                 ║
+║  BLUE ELECTRIC    #2563EB       →  TECHNOLOGY                      ║
+║  GREEN SIGNAL     #00FFA3       →  SUCCESS                         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-### Visual Principles
+### VISUAL PRINCIPLES
 
 **Dark cinematic surfaces**
 
-→ create depth
+→ depth
 
 **Electric cyan**
 
-→ primary interaction
+→ interaction
 
 **Violet**
 
-→ intelligence / AI
+→ intelligence
 
 **Magenta**
 
@@ -611,53 +657,71 @@ Potential React implementation includes:
 
 **Emerald**
 
-→ success / system state
+→ system status
 
 **Glass surfaces**
 
-→ modern UI depth
+→ modern depth
 
 **Glow**
 
-→ visual hierarchy
+→ hierarchy
 
 **Motion**
 
-→ interaction feedback
+→ feedback
+
+**Contrast**
+
+→ readability
 
 ---
 
 # 🧊 07 / UX ARCHITECTURE
 
+<div align="center">
+
 ```text
-                    USER
-                     │
-                     ▼
-              ┌─────────────┐
-              │   HERO      │
-              └──────┬──────┘
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-      ABOUT        SKILLS       PROJECTS
-        │            │            │
-        └────────────┼────────────┘
-                     ▼
-                EXPERIENCE
-                     │
-                     ▼
-                 EDUCATION
-                     │
-                     ▼
-                ANALYTICS
-                     │
-                     ▼
-                  CONTACT
+                              USER
+                               │
+                               ▼
+                         ┌───────────┐
+                         │   HERO    │
+                         └─────┬─────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+          ABOUT             SKILLS            PROJECTS
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                          EXPERIENCE
+                               │
+                               ▼
+                           EDUCATION
+                               │
+                               ▼
+                           ANALYTICS
+                               │
+                               ▼
+                            CONTACT
 ```
 
-Every section is designed around:
+### EXPERIENCE PRINCIPLE
 
-**Hierarchy → Motion → Feedback → Accessibility → Responsiveness**
+```text
+HIERARCHY
+    ↓
+MOTION
+    ↓
+FEEDBACK
+    ↓
+ACCESSIBILITY
+    ↓
+RESPONSIVENESS
+    ↓
+CLARITY
+```
 
 ---
 
@@ -665,18 +729,17 @@ Every section is designed around:
 
 <table>
 <tr>
-
 <td width="50%">
 
-## 🤖 AI & Machine Learning Intern
+## 🤖 AI & MACHINE LEARNING INTERN
 
 ### SmartBridge — APSCHE
 
-**Stack**
+**STACK**
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
-### Focus
+### FOCUS
 
 * Machine-learning fundamentals
 * Data preprocessing
@@ -688,15 +751,15 @@ Every section is designed around:
 
 <td width="50%">
 
-## ⚛️ Quantum Computing Intern
+## ⚛️ QUANTUM COMPUTING INTERN
 
 ### SkillDzire — APSCHE
 
-**Focus**
+**FOCUS**
 
 `Quantum Computing` `Quantum Gates` `Quantum Algorithms`
 
-### Focus
+### AREAS
 
 * Qubits
 * Superposition
@@ -705,7 +768,6 @@ Every section is designed around:
 * Emerging computational models
 
 </td>
-
 </tr>
 </table>
 
@@ -716,7 +778,7 @@ Every section is designed around:
 <div align="center">
 
 |      PERIOD     | QUALIFICATION                | INSTITUTION                                                |    RESULT    |
-| :-------------: | ---------------------------- | ---------------------------------------------------------- | :----------: |
+| :-------------: | :--------------------------- | :--------------------------------------------------------- | :----------: |
 | **2022 — 2026** | B.Tech — AI & Data Science   | Kandula Obul Reddy Memorial College of Engineering, Kadapa | **8.3 CGPA** |
 | **2020 — 2022** | Intermediate — MPC           | Swamy Vivekananda Junior College, Anantapur                |   **77.5%**  |
 |     **2020**    | Secondary School Certificate | Z.P. High School, Peddapappur                              |  **92.66%**  |
@@ -730,11 +792,8 @@ Every section is designed around:
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING-SMARTBRIDGE-7C3AED?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/BIG_DATA-NPTEL-00F5FF?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/QUANTUM_COMPUTING-SKILLDZIRE-FF00AA?style=for-the-badge&labelColor=050816">
-
 <img src="https://img.shields.io/badge/TOP_2_PERFORMER-AI_%26_DATA_SCIENCE-00FFA3?style=for-the-badge&labelColor=050816">
 
 </div>
@@ -782,34 +841,34 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 <div align="center">
 
 ```text
-       ┌───────────────────────┐
-       │   JAVA FULL STACK     │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │ BACKEND ENGINEERING   │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │ DATABASE SYSTEMS      │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │ DATA & ANALYTICS      │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │ AI / MACHINE LEARNING │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │ INTELLIGENT SOFTWARE  │
-       └───────────────────────┘
+             ┌─────────────────────────┐
+             │     JAVA FULL STACK     │
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │   BACKEND ENGINEERING  │
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │    DATABASE SYSTEMS    │
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │    DATA & ANALYTICS    │
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │   AI / MACHINE LEARNING│
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │   INTELLIGENT SOFTWARE │
+             └─────────────────────────┘
 ```
 
 </div>
@@ -824,13 +883,19 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 ## DESIGN THE SYSTEM.
 
+<br>
+
 ### DON'T JUST BUILD FEATURES.
 
 ## DESIGN THE EXPERIENCE.
 
+<br>
+
 ### DON'T JUST TRAIN MODELS.
 
 ## SOLVE PROBLEMS.
+
+<br>
 
 ### DON'T STOP AT WORKING.
 
@@ -871,9 +936,13 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 <img src="https://img.shields.io/badge/✉_EMAIL-00F5FF?style=for-the-badge&labelColor=050816">
 </a>
 
+ 
+
 <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
 <img src="https://img.shields.io/badge/◈_LINKEDIN-7C3AED?style=for-the-badge&labelColor=050816">
 </a>
+
+ 
 
 <a href="https://github.com/hemanth2662777">
 <img src="https://img.shields.io/badge/◉_GITHUB-FF00AA?style=for-the-badge&labelColor=050816">
@@ -881,7 +950,7 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=BUILD.;LEARN.;EXPERIMENT.;BREAK.;FIX.;IMPROVE.;SHIP.;REPEAT." alt="Animated closing message">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1900&pause=550&color=00F5FF&center=true&vCenter=true&width=850&lines=BUILD.;LEARN.;EXPERIMENT.;BREAK.;FIX.;IMPROVE.;SHIP.;REPEAT." alt="Animated closing message">
 
 </div>
 
@@ -894,11 +963,11 @@ Ranked among the **Top 2 performers** in the B.Tech Artificial Intelligence & Da
 <br><br>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│        ◈ BUILD       ◈ LEARN       ◈ IMPROVE       ◈ REPEAT │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│       ◈ BUILD       ◈ LEARN       ◈ IMPROVE       ◈ REPEAT           │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 <br>
