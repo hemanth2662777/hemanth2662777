@@ -111,9 +111,33 @@ I enjoy transforming ideas into **functional, responsive, scalable and visually 
 
 <br><br>
 
-### 🌐 DEVELOPMENT
+### 🌐 WEB & FRONTEND ENGINEERING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,flask" alt="Development technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi,flask" alt="HTML CSS JavaScript React Node.js FastAPI Flask" />
+
+<br><br>
+
+### ⚛️ REACT / UI ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React JavaScript HTML CSS" />
+
+<br><br>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    FRONTEND ENGINEERING                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  HTML5        → Semantic structure & accessible markup      │
+│  CSS3         → Responsive layouts, animations & UI systems │
+│  JavaScript   → Dynamic behavior & application logic       │
+│  React.js     → Component-driven interactive interfaces    │
+│                                                             │
+│  UI FLOW                                                    │
+│  Components → State → Events → API → Data → UI             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <br><br>
 
@@ -138,6 +162,7 @@ I enjoy transforming ideas into **functional, responsive, scalable and visually 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 
 <br>
@@ -347,7 +372,7 @@ A cinematic streaming-style interface focused on interactive content discovery.
 
 <tr>
 <td><b>Frontend</b></td>
-<td>HTML5 · CSS3 · JavaScript · Responsive UI</td>
+<td>HTML5 · CSS3 · JavaScript · React.js · Responsive UI · Animations</td>
 </tr>
 
 <tr>
