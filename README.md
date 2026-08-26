@@ -22,11 +22,11 @@
 
 <div align="center">
 
-### `JAVA` · `PYTHON` · `AI/ML` · `FULL STACK` · `DATA SCIENCE`
+### `HTML5` · `CSS3` · `JAVASCRIPT` · `REACT.JS` · `JAVA` · `PYTHON` · `AI/ML` · `FULL STACK`
 
 **B.Tech Artificial Intelligence & Data Science · 2022 — 2026**
 
-> **Engineering intelligent systems with clean code, thoughtful UI/UX, and data-driven thinking.**
+> **Designing polished frontend experiences and engineering intelligent full-stack systems.**
 
 </div>
 
@@ -52,6 +52,10 @@ My development journey spans:
 * 📊 Data visualization
 * 🧠 AI-powered applications
 * 🎨 Modern UI/UX engineering
+* 🧱 Semantic HTML5 architecture
+* 🎨 CSS3 design systems, responsive layouts and animations
+* ⚡ JavaScript application logic and interactive experiences
+* ⚛️ React.js component-driven interfaces
 
 I enjoy transforming ideas into **functional, responsive, scalable and visually engaging applications**.
 
@@ -101,7 +105,46 @@ I enjoy transforming ideas into **functional, responsive, scalable and visually 
 
 ---
 
-# 🧠 03 / TECHNOLOGY MATRIX
+# 🧠 03 / FRONTEND ENGINEERING MATRIX
+
+<div align="center">
+
+### 🌐 HTML5 · CSS3 · JAVASCRIPT · REACT.JS
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML5 CSS3 JavaScript React.js" />
+
+<br><br>
+
+| Frontend Layer   | Engineering Focus                                                                        |
+| :--------------- | :--------------------------------------------------------------------------------------- |
+| 🧱 **HTML5**     | Semantic structure, accessible markup, forms, media and page architecture                |
+| 🎨 **CSS3**      | Responsive layouts, Flexbox, Grid, transitions, keyframes and design systems             |
+| ⚡ **JavaScript** | DOM events, dynamic rendering, validation, search, API integration and application logic |
+| ⚛️ **React.js**  | Reusable components, props, state, hooks, composition and interactive interfaces         |
+
+### 🔄 FRONTEND FLOW
+
+```text
+HTML5 Structure
+      ↓
+CSS3 Design System
+      ↓
+JavaScript Interaction
+      ↓
+React Components
+      ↓
+State / API Data
+      ↓
+Responsive Interactive UI
+```
+
+`Responsive Design` · `Component Architecture` · `Micro-interactions` · `CSS Animations` · `Dark UI` · `Interactive Cards` · `Modal UX` · `Search UX` · `Theme Switching`
+
+</div>
+
+---
+
+# 🧠 04 / TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -183,7 +226,7 @@ I enjoy transforming ideas into **functional, responsive, scalable and visually 
 
 ---
 
-# 🚀 04 / FEATURED PROJECTS
+# 🚀 05 / FEATURED PROJECTS
 
 <table>
 <tr>
@@ -291,14 +334,20 @@ A food-delivery web application with authentication, menu management and databas
 
 <td width="50%" valign="top">
 
-## 🎬 CineKings
+## 🎬 CineKings — Frontend Experience
 
-**HTML · CSS · JavaScript**
+**HTML5 · CSS3 · JavaScript · React.js**
 
 A cinematic streaming-style interface focused on interactive content discovery.
 
 ### Focus
 
+* Semantic HTML structure
+* Responsive CSS architecture
+* CSS animations and transitions
+* JavaScript-driven interactions
+* React component architecture
+* Reusable UI patterns
 * Netflix-inspired UX
 * Dynamic content cards
 * Search
@@ -372,7 +421,7 @@ A cinematic streaming-style interface focused on interactive content discovery.
 
 <tr>
 <td><b>Frontend</b></td>
-<td>HTML5 · CSS3 · JavaScript · React.js · Responsive UI · Animations</td>
+<td>HTML5 · CSS3 · JavaScript · React.js · Responsive UI · CSS Animations · Component Architecture</td>
 </tr>
 
 <tr>
@@ -473,6 +522,8 @@ Focused on strengthening practical development and technical problem-solving thr
 │                                                            │
 │  [██████████████████░░]  Machine Learning                  │
 │  [████████████████░░░░]  Full Stack Development            │
+│  [██████████████████░░]  HTML / CSS / JavaScript            │
+│  [████████████████░░░░]  React.js & Component Design        │
 │  [███████████████░░░░░]  Java Backend Engineering          │
 │  [██████████████░░░░░░]  Data Analytics                    │
 │  [█████████████░░░░░░░]  Deep Learning                     │
@@ -750,7 +801,7 @@ $ role
 
 $ interests
 
-> AI · ML · Web Development · Backend · Data
+> HTML · CSS · JavaScript · React.js · AI · ML · Backend · Data
 
 $ mission
 
