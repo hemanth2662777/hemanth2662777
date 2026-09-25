@@ -1,31 +1,37 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════
-     ⚡ 3D HOLOGRAPHIC HERO STAGE // CHELIMALA HEMANTH
+     ⚡ UNIFIED CYBER MATRIX HERO // CHELIMALA HEMANTH
      ══════════════════════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=CHELIMALA%20HEMANTH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A8%20JAVA%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%203D%20UI%20ENGINEER%20%E2%9C%A8&descAlignY=58&descSize=18&animation=twinkling&color=0:020617,20:0f172a,40:4c1d95,65:7928ca,85:ff0080,100:00f2fe" width="100%" />
 
 <br>
 
-<!-- 3D REAL-WORLD ANIMATED CHARACTERS & AVATAR RIG -->
-<table>
-  <tr>
-    <td align="center" width="25%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="110" />
-      <br>
-      <b>🤖 NEURAL AI CORE</b>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/hemanth2662777">
-        <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="360" />
+<!-- 3D INTERACTIVE AVATAR RIG & WORKSTATION -->
+<table border="0" width="100%" style="background-color: #0d1117; border-radius: 12px; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="28%" valign="middle" style="border: none; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="105" />
+      <br><br>
+      <a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
+        <img src="https://img.shields.io/badge/🤖%20NEURAL_AI-00F2FE?style=for-the-badge&logoColor=black" />
       </a>
-      <br>
-      <b>⚡ REAL-TIME DEVELOPER WORKSTATION</b>
     </td>
-    <td align="center" width="25%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="110" />
-      <br>
-      <b>🔮 3D MOTION MATRIX</b>
+    <td align="center" width="44%" valign="middle" style="border: none; padding: 15px;">
+      <a href="https://github.com/hemanth2662777">
+        <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="340" />
+      </a>
+      <br><br>
+      <a href="https://github.com/hemanth2662777">
+        <img src="https://img.shields.io/badge/⚡%20LIVE_DEV_STATION-7928CA?style=for-the-badge&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="28%" valign="middle" style="border: none; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="105" />
+      <br><br>
+      <a href="https://github.com/hemanth2662777">
+        <img src="https://img.shields.io/badge/🔮%203D_MOTION-FF0080?style=for-the-badge&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -39,7 +45,7 @@
 
 <!-- 3D HOLOGRAPHIC BADGES & METRICS -->
 <a href="https://github.com/hemanth2662777">
-  <img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VISITORS&color=7928ca&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=%F0%9F%91%81%EF%B8%8F%20VISITORS&color=7928ca&style=for-the-badge" />
 </a>
 <a href="https://github.com/hemanth2662777?tab=followers">
   <img src="https://img.shields.io/github/followers/hemanth2662777?label=%F0%9F%91%A5%20FOLLOWERS&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" />
@@ -51,7 +57,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hemanth2662n@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -78,9 +84,9 @@
 
 <br>
 
-<table>
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="top" style="padding: 10px;">
 
 ### 🌌 Welcoming You to My Digital Dimension! 👋
 
@@ -103,7 +109,7 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 
 </td>
 
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="top" align="center" style="padding: 10px;">
 
 ```text
 ╔══════════════════════════════════════╗
@@ -205,14 +211,14 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 <br>
 
 <!-- REPOSITORY PIN CARDS GRID -->
-<table width="100%">
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 10px;">
   <a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Rice-Classification-AI-Model&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" />
   </a>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 10px;">
   <a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Credit_Loan_Rise_Assessment&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=FF0080&text_color=E2E8F0" width="100%" />
   </a>
@@ -222,9 +228,9 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 
 <br>
 
-<table>
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🌾 01 / Rice Variety Classification AI Model
 `🔵 AI / COMPUTER VISION` · **`92% ACCURACY`**
@@ -246,18 +252,18 @@ A deep learning computer vision model classifying 5 unique rice cultivars from g
 * 🔹 Real-time inference web app with interactive upload & instant output
 * 🔹 Live cloud deployment on Render with responsive UI
 
-<div align="left">
-<a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
-  <img src="https://img.shields.io/badge/GITHUB_REPO-7928CA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br>
+
 <a href="https://rice-classification-ai-model.onrender.com/login">
-  <img src="https://img.shields.io/badge/LIVE_APP-00F2FE?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/🚀%20LIVE_LAUNCH-00F2FE?style=for-the-badge&logo=render&logoColor=black" />
 </a>
-</div>
+<a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
+  <img src="https://img.shields.io/badge/📦%20GITHUB_REPO-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 💳 02 / Credit Loan Risk & Score Predictor
 `🟢 PREDICTIVE ANALYTICS` · **`HIGH PRECISION`**
@@ -279,20 +285,20 @@ A financial intelligence system that assesses borrower credit risk and calculate
 * 🔹 High-throughput asynchronous backend built with FastAPI
 * 🔹 Persistent MySQL database integration for user query tracking
 
-<div align="left">
+<br>
+
 <a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
-  <img src="https://img.shields.io/badge/GITHUB_REPO-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/⚡%20PREDICT_API-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
 <a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
-  <img src="https://img.shields.io/badge/VIEW_MODEL-FF0080?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦%20GITHUB_REPO-FF0080?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🍽️ 03 / TastyTap — Enterprise Food Ordering System
 `⚡ FULL STACK` · **`ENTERPRISE ARCHITECTURE`**
@@ -304,18 +310,18 @@ A complete full-stack food delivery web portal featuring menu catalogs, role-bas
 * 🔹 Optimized JDBC connection pooling with atomic transactional SQL queries
 * 🔹 Responsive dynamic menus, cart workflows, and checkout pipeline
 
-<div align="left">
+<br>
+
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-ED8B00?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20LAUNCH_APP-ED8B00?style=for-the-badge&logo=apachetomcat&logoColor=white" />
 </a>
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/STACK-JAVA%20%2B%20SQL-7928CA?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦%20SOURCE_CODE-7928CA?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🎬 04 / CineKings — 3D Streaming Cinema UX
 `💎 3D MOTION` · **`STREAMING UI ENGINE`**
@@ -327,14 +333,14 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 * 🔹 Modular React component architecture with stateful custom hooks
 * 🔹 Real-time search index, movie details viewer & dark theme toggler
 
-<div align="left">
+<br>
+
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/🚀%20LIVE_PREVIEW-FF0080?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/LIVE_PREVIEW-FF0080?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦%20REACT_CODE-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </a>
-</div>
 
 </td>
 </tr>
@@ -361,12 +367,12 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <br><br>
 
 <!-- GITHUB STATS & STREAK CARDS -->
-<table width="100%">
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="padding: 10px;">
   <img src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=0D1117&ring=7928CA&fire=FF0080&currStreakLabel=00F2FE&sideNums=E2E8F0&sideLabels=06B6D4" width="100%" />
 </td>
 </tr>
@@ -375,12 +381,12 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <br>
 
 <!-- TOP LANGUAGES & ACTIVITY BREAKDOWN -->
-<table width="100%">
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E2E8F0" width="100%" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117&text_color=E2E8F0" width="100%" />
 </td>
 </tr>
@@ -442,9 +448,9 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 
 <br>
 
-<table>
+<table width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### 🧠 SmartBridge — AI & ML Intern
 **`APSCHE Virtual` · `Applied AI & Machine Learning Track`**
@@ -455,7 +461,7 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px;">
 
 ### ⚙️ SkillDzire — Quantum Computing Intern
 **`APSCHE` · `Quantum Computing Track`**
