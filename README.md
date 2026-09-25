@@ -3,29 +3,29 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════════
      ⚡ 3D HOLOGRAPHIC HERO STAGE // CHELIMALA HEMANTH
      ══════════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=CHELIMALA%20HEMANTH&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A8%20JAVA%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%203D%20UI%20ENGINEER%20%E2%9C%A8&descAlignY=58&descSize=19&animation=twinkling&color=0:020617,20:0f172a,40:4c1d95,65:7928ca,85:ff0080,100:00f2fe" width="100%" alt="3D Neon Cyber Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=CHELIMALA%20HEMANTH&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A8%20JAVA%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%203D%20UI%20ENGINEER%20%E2%9C%A8&descAlignY=58&descSize=18&animation=twinkling&color=0:020617,20:0f172a,40:4c1d95,65:7928ca,85:ff0080,100:00f2fe" width="100%" />
 
 <br>
 
 <!-- 3D REAL-WORLD ANIMATED CHARACTERS & AVATAR RIG -->
-<table border="0" width="100%">
+<table>
   <tr>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180" alt="3D AI Robot Assistant Character" />
+    <td align="center" width="25%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="110" />
       <br>
-      <sub><b>🤖 NEURAL AI CORE</b></sub>
+      <b>🤖 NEURAL AI CORE</b>
     </td>
-    <td align="center" width="34%" valign="middle">
+    <td align="center" width="50%" valign="middle">
       <a href="https://github.com/hemanth2662777">
-        <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="360" alt="3D Realistic Developer Coding Hologram" />
+        <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="360" />
       </a>
       <br>
-      <sub><b>⚡ REAL-TIME DEVELOPER WORKSTATION</b></sub>
+      <b>⚡ REAL-TIME DEVELOPER WORKSTATION</b>
     </td>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="3D Floating Tech Cube Character" />
+    <td align="center" width="25%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="110" />
       <br>
-      <sub><b>🔮 3D MOTION MATRIX</b></sub>
+      <b>🔮 3D MOTION MATRIX</b>
     </td>
   </tr>
 </table>
@@ -33,38 +33,38 @@
 <br>
 
 <!-- 3D HIGH-CONTRAST NEON TYPING ENGINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=920&lines=%E2%9A%A1+Architecting+Intelligent+Full-Stack+%26+Cloud+Ecosystems;%F0%9F%A7%A0+Deep+Learning+%E2%80%A2+Computer+Vision+%5B92%25+Accuracy+CNNs%5D;%F0%9F%8E%A8+Modern+Frontend+%E2%80%A2+Interactive+3D+Glassmorphic+UI;%F0%9F%92%B3+Predictive+Financial+Analytics+%5BScikit-Learn+%2B+FastAPI%5D;%E2%AD%90+Top+2+Academic+Performer+%E2%80%A2+B.Tech+AI+%26+Data+Science" alt="3D Typing SVG Engine" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=920&lines=%E2%9A%A1+Architecting+Intelligent+Full-Stack+%26+Cloud+Ecosystems;%F0%9F%A7%A0+Deep+Learning+%E2%80%A2+Computer+Vision+%5B92%25+Accuracy+CNNs%5D;%F0%9F%8E%A8+Modern+Frontend+%E2%80%A2+Interactive+3D+Glassmorphic+UI;%F0%9F%92%B3+Predictive+Financial+Analytics+%5BScikit-Learn+%2B+FastAPI%5D;%E2%AD%90+Top+2+Academic+Performer+%E2%80%A2+B.Tech+AI+%26+Data+Science" />
 
 <br><br>
 
-<!-- 3D HOLOGRAPHIC BADGES & VERIFIED TELEMETRY METRICS -->
+<!-- 3D HOLOGRAPHIC BADGES & METRICS -->
 <a href="https://github.com/hemanth2662777">
-  <img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VISITORS&color=7928ca&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VISITORS&color=7928ca&style=for-the-badge" />
 </a>
 <a href="https://github.com/hemanth2662777?tab=followers">
-  <img src="https://img.shields.io/github/followers/hemanth2662777?label=%F0%9F%91%A5%20FOLLOWERS&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/hemanth2662777?label=%F0%9F%91%A5%20FOLLOWERS&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" />
 </a>
 <a href="https://github.com/hemanth2662777?tab=repositories">
-  <img src="https://img.shields.io/github/stars/hemanth2662777?affiliations=OWNER&style=for-the-badge&color=ff0080&label=%E2%AD%90%20REPOSITORIES&logo=apachespark&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/hemanth2662777?affiliations=OWNER&style=for-the-badge&color=ff0080&label=%E2%AD%90%20REPOSITORIES&logo=apachespark&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hemanth2662n@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
 <!-- 3D LASER NEON GLOW DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00F2FE,25:7928CA,50:FF0080,75:FF8A00,100:00F2FE" width="98%" alt="3D Laser Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F2FE,25:7928CA,50:FF0080,75:FF8A00,100:00F2FE" width="100%" />
 
 </div>
 
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════
-     🧬 01 / 3D NEURAL COCKPIT & BIOGRAPHY
+     🧬 01 / 3D NEURAL COCKPIT & PROFILE
      ══════════════════════════════════════════════════════════════════════════════════ -->
 # 🧬 01 / 3D NEURAL COCKPIT & PROFILE
 
@@ -123,7 +123,7 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 ╚══════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=360&lines=%E2%9C%A8+NEURAL_CORE%3A+100%25+OPTIMIZED;%E2%9A%A1+MEMORY_BANDWIDTH%3A+UNLIMITED;%F0%9F%9A%80+READY_FOR_NEXT_CHALLENGE" alt="Matrix Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=360&lines=%E2%9C%A8+NEURAL_CORE%3A+100%25+OPTIMIZED;%E2%9A%A1+MEMORY_BANDWIDTH%3A+UNLIMITED;%F0%9F%9A%80+READY_FOR_NEXT_CHALLENGE" />
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7928CA,50:00F2FE,100:FF0080" width="98%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7928CA,50:00F2FE,100:FF0080" width="100%" />
 </div>
 
 <br>
@@ -146,28 +146,28 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 
 ### 💻 01. CORE PROGRAMMING LANGUAGES
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css" />
 </p>
 
 <br>
 
 ### 🌐 02. FULL-STACK, MODERN REACT & 3D UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask" alt="Frontend & Backend Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask" />
 </p>
 
 <br>
 
 ### 🤖 03. ARTIFICIAL INTELLIGENCE, COMPUTER VISION & ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,matlab" alt="AI / Machine Learning Stack" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,matlab" />
 </p>
 
 <br>
 
 ### 🗄️ 04. DATABASES, CLOUD & DEVOPS INFRASTRUCTURE
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,postman,vscode" alt="Databases and DevOps" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,postman,vscode" />
 </p>
 
 <br>
@@ -188,7 +188,7 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F2FE,50:FF0080,100:7928CA" width="98%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F2FE,50:FF0080,100:7928CA" width="100%" />
 </div>
 
 <br>
@@ -199,22 +199,22 @@ I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer
 # 🚀 03 / REAL-WORLD REPOSITORIES & SHOWCASE PROJECTS
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2400&pause=700&color=00F2FE&center=true&vCenter=true&width=880&lines=%E2%AD%90+PROJECT+01%3A+RICE+CLASSIFICATION+AI+%5BCNN+%2B+92%25+ACCURACY%5D;%E2%AD%90+PROJECT+02%3A+CREDIT+LOAN+RISK+ASSESSMENT+%5BML+%2B+FASTAPI%5D;%E2%AD%90+PROJECT+03%3A+TASTY-TAP+FOOD+PLATFORM+%5BJAVA+FULL+STACK%5D;%E2%AD%90+PROJECT+04%3A+CINEKINGS+STREAMING+ENGINE+%5BREACT+%2B+3D+MOTION%5D" alt="Project Switcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2400&pause=700&color=00F2FE&center=true&vCenter=true&width=880&lines=%E2%AD%90+PROJECT+01%3A+RICE+CLASSIFICATION+AI+%5BCNN+%2B+92%25+ACCURACY%5D;%E2%AD%90+PROJECT+02%3A+CREDIT+LOAN+RISK+ASSESSMENT+%5BML+%2B+FASTAPI%5D;%E2%AD%90+PROJECT+03%3A+TASTY-TAP+FOOD+PLATFORM+%5BJAVA+FULL+STACK%5D;%E2%AD%90+PROJECT+04%3A+CINEKINGS+STREAMING+ENGINE+%5BREACT+%2B+3D+MOTION%5D" />
 </div>
 
 <br>
 
 <!-- REPOSITORY PIN CARDS GRID -->
-<table border="0" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Rice-Classification-AI-Model&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" alt="Rice Classification AI Model Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Rice-Classification-AI-Model&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" />
   </a>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Credit_Loan_Rise_Assessment&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=FF0080&text_color=E2E8F0" width="100%" alt="Credit Loan Risk Assessment Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Credit_Loan_Rise_Assessment&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=FF0080&text_color=E2E8F0" width="100%" />
   </a>
 </td>
 </tr>
@@ -343,7 +343,7 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF0080,50:7928CA,100:00F2FE" width="98%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF0080,50:7928CA,100:00F2FE" width="100%" />
 </div>
 
 <br>
@@ -356,18 +356,18 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <div align="center">
 
 <!-- 3D GITHUB TROPHY SHELF -->
-<img src="https://github-profile-trophy.vercel.app/?username=hemanth2662777&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="100%" alt="3D GitHub Trophy Cabinet" />
+<img src="https://github-profile-trophy.vercel.app/?username=hemanth2662777&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="100%" />
 
 <br><br>
 
 <!-- GITHUB STATS & STREAK CARDS -->
-<table border="0">
+<table width="100%">
 <tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="420" alt="GitHub Stats" />
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" />
 </td>
-<td align="center">
-  <img src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=0D1117&ring=7928CA&fire=FF0080&currStreakLabel=00F2FE&sideNums=E2E8F0&sideLabels=06B6D4" width="420" alt="GitHub Streak" />
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com/?user=hemanth2662777&theme=radical&hide_border=true&background=0D1117&ring=7928CA&fire=FF0080&currStreakLabel=00F2FE&sideNums=E2E8F0&sideLabels=06B6D4" width="100%" />
 </td>
 </tr>
 </table>
@@ -375,13 +375,13 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <br>
 
 <!-- TOP LANGUAGES & ACTIVITY BREAKDOWN -->
-<table border="0">
+<table width="100%">
 <tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E2E8F0" width="390" alt="Top Languages" />
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2662777&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E2E8F0" width="100%" />
 </td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117&text_color=E2E8F0" width="430" alt="Contribution Details" />
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth2662777&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&hide_border=true&theme=radical&bg_color=0D1117&text_color=E2E8F0" width="100%" />
 </td>
 </tr>
 </table>
@@ -397,19 +397,19 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&theme=react-dark&bg_color=0D1117&color=E2E8F0&line=00F2FE&point=7928CA&area=true&hide_border=true&custom_title=%E2%9A%A1%20HEMANTH%20-%20ANNUAL%20CONTRIBUTION%20VELOCITY" width="100%" alt="Contribution Velocity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth2662777&theme=react-dark&bg_color=0D1117&color=E2E8F0&line=00F2FE&point=7928CA&area=true&hide_border=true&custom_title=%E2%9A%A1%20HEMANTH%20-%20ANNUAL%20CONTRIBUTION%20VELOCITY" width="100%" />
 
 <br><br>
 
 ### 🐍 3D SNAKE DEVOURING THE CONTRIBUTION CALENDAR
-<img src="https://github-contribution-grid-snake.vercel.app/api?username=hemanth2662777&color_snake=00F2FE&color_dots=%230D1117%2C%231a0b2e%2C%234c1d95%2C%237928ca%2C%2300F2FE" width="100%" alt="3D Snake Animation" />
+<img src="https://github-contribution-grid-snake.vercel.app/api?username=hemanth2662777&color_snake=00F2FE&color_dots=%230D1117%2C%231a0b2e%2C%234c1d95%2C%237928ca%2C%2300F2FE" width="100%" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F2FE,50:7928CA,100:FF0080" width="98%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F2FE,50:7928CA,100:FF0080" width="100%" />
 </div>
 
 <br>
@@ -524,29 +524,29 @@ $ curl -s https://api.github.com/users/hemanth2662777 | jq '{name, bio, location
 <br>
 
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:hemanth2662n@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/hemanth2662777?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPOS-7928CA?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOS-7928CA?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=760&lines=Code+with+purpose.;Innovate+with+AI.;Build+systems+that+matter.;Created+with+%E2%9D%A4%EF%B8%8F+by+Hemanth." alt="Closing Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=760&lines=Code+with+purpose.;Innovate+with+AI.;Build+systems+that+matter.;Created+with+%E2%9D%A4%EF%B8%8F+by+Hemanth." />
 
 <br><br>
 
 <!-- 3D FLUID CYBER WAVING FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,25:4c1d95,65:7928ca,85:ff0080,100:00f2fe&section=footer" width="100%" alt="3D Animated Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,25:4c1d95,65:7928ca,85:ff0080,100:00f2fe&section=footer" width="100%" />
 
 <br>
 
