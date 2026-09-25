@@ -3,15 +3,29 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════════
      ⚡ 3D HOLOGRAPHIC HERO STAGE // CHELIMALA HEMANTH
      ══════════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=CHELIMALA%20HEMANTH&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A8%20JAVA%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%203D%20FRONTEND%20ENGINEER%20%E2%9C%A8&descAlignY=58&descSize=19&animation=twinkling&color=0:020617,20:0f172a,40:4c1d95,65:7928ca,85:ff0080,100:00f2fe" width="100%" alt="3D Cyberpunk Neon Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=CHELIMALA%20HEMANTH&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A8%20JAVA%20FULL%20STACK%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%203D%20UI%20ENGINEER%20%E2%9C%A8&descAlignY=58&descSize=19&animation=twinkling&color=0:020617,20:0f172a,40:4c1d95,65:7928ca,85:ff0080,100:00f2fe" width="100%" alt="3D Neon Cyber Header" />
 
 <br>
 
-<!-- 3D REALISTIC FLOATING DEVELOPER HOLOGRAPHIC RIG -->
+<!-- 3D REAL-WORLD ANIMATED CHARACTERS & AVATAR RIG -->
 <table border="0" width="100%">
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="460" alt="3D Realistic Developer Coding Animation" />
+    <td align="center" width="33%" valign="middle">
+      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180" alt="3D AI Robot Assistant Character" />
+      <br>
+      <sub><b>🤖 NEURAL AI CORE</b></sub>
+    </td>
+    <td align="center" width="34%" valign="middle">
+      <a href="https://github.com/hemanth2662777">
+        <img src="https://raw.githubusercontent.com/MauroRamos/MauroRamos/master/assets/developer.gif" width="360" alt="3D Realistic Developer Coding Hologram" />
+      </a>
+      <br>
+      <sub><b>⚡ REAL-TIME DEVELOPER WORKSTATION</b></sub>
+    </td>
+    <td align="center" width="33%" valign="middle">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="3D Floating Tech Cube Character" />
+      <br>
+      <sub><b>🔮 3D MOTION MATRIX</b></sub>
     </td>
   </tr>
 </table>
@@ -19,22 +33,25 @@
 <br>
 
 <!-- 3D HIGH-CONTRAST NEON TYPING ENGINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=920&lines=%E2%9A%A1+Architecting+Intelligent+Full-Stack+%26+Cloud+Ecosystems;%F0%9F%A7%A0+Engineering+Advanced+Deep+Learning+%26+Computer+Vision;%F0%9F%8E%A8+Designing+Next-Gen+3D+Interactive+Frontend+Experiences;%F0%9F%94%A5+High-Performance+Java+Enterprise+Microservices;%F0%9F%9A%80+Transforming+Complex+Algorithms+Into+Impactful+Products" alt="3D Typing SVG Engine" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=920&lines=%E2%9A%A1+Architecting+Intelligent+Full-Stack+%26+Cloud+Ecosystems;%F0%9F%A7%A0+Deep+Learning+%E2%80%A2+Computer+Vision+%5B92%25+Accuracy+CNNs%5D;%F0%9F%8E%A8+Modern+Frontend+%E2%80%A2+Interactive+3D+Glassmorphic+UI;%F0%9F%92%B3+Predictive+Financial+Analytics+%5BScikit-Learn+%2B+FastAPI%5D;%E2%AD%90+Top+2+Academic+Performer+%E2%80%A2+B.Tech+AI+%26+Data+Science" alt="3D Typing SVG Engine" />
 
 <br><br>
 
-<!-- 3D HOLOGRAPHIC PILL BADGES & LIVE METRICS -->
+<!-- 3D HOLOGRAPHIC BADGES & VERIFIED TELEMETRY METRICS -->
 <a href="https://github.com/hemanth2662777">
   <img src="https://komarev.com/ghpvc/?username=hemanth2662777&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VISITORS&color=7928ca&style=for-the-badge" alt="Visitors" />
 </a>
 <a href="https://github.com/hemanth2662777?tab=followers">
-  <img src="https://img.shields.io/github/followers/hemanth2662777?label=%F0%9F%91%A5%20GLOBAL%20FOLLOWERS&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/hemanth2662777?label=%F0%9F%91%A5%20FOLLOWERS&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" alt="Followers" />
 </a>
 <a href="https://github.com/hemanth2662777?tab=repositories">
   <img src="https://img.shields.io/github/stars/hemanth2662777?affiliations=OWNER&style=for-the-badge&color=ff0080&label=%E2%AD%90%20REPOSITORIES&logo=apachespark&logoColor=white" alt="Stars" />
 </a>
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:hemanth2662n@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
@@ -47,7 +64,7 @@
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════
-     🧬 01 / 3D CYBERNETIC COCKPIT & BIOGRAPHY
+     🧬 01 / 3D NEURAL COCKPIT & BIOGRAPHY
      ══════════════════════════════════════════════════════════════════════════════════ -->
 # 🧬 01 / 3D NEURAL COCKPIT & PROFILE
 
@@ -63,20 +80,20 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="55%" valign="top">
 
 ### 🌌 Welcoming You to My Digital Dimension! 👋
 
-I am **Chelimala Hemanth**, an **AI & Data Science Specialist and Full Stack Engineer** who engineers the bridge between deep machine intelligence and fluid, ultra-responsive 3D user experiences.
+I am **Chelimala Hemanth**, an **Artificial Intelligence & Data Science Engineer and Java Full Stack Developer** graduating in **2026** from **Kandula Obul Reddy Memorial College of Engineering, Kadapa** (Ranked **Top 2 Academic Performer**, CGPA: **8.3 / 10**).
 
 ```text
 ╭─────────────────────────────────────────────────────────────╮
 │ 🚀 CORE MISSIONS & ACTIVE CAPABILITIES                      │
 ├─────────────────────────────────────────────────────────────┤
-│ ☕ Java Enterprise Backend  │ Multi-tier REST APIs & JDBC  │
-│ 🧠 Deep Learning & Vision   │ CNNs, TensorFlow & PyTorch   │
-│ ⚛️ Modern Frontend Physics  │ React.js, Glassmorphism & 3D │
-│ ⚡ Asynchronous Microservices│ FastAPI, Python, Servlets    │
+│ ☕ Java Enterprise Backend  │ Servlets, JDBC, OOP & MySQL  │
+│ 🧠 Deep Learning & Vision   │ TensorFlow, CNNs, OpenCV     │
+│ ⚛️ Modern Frontend Physics  │ React.js, Glassmorphism, 3D  │
+│ ⚡ Asynchronous Microservices│ FastAPI, Python, REST APIs   │
 │ 🗄️ Relational Data Storage │ MySQL & PostgreSQL Tuning    │
 │ 💎 High Polish Interaction  │ Keyframe CSS Motion & SVG UX │
 ╰─────────────────────────────────────────────────────────────╯
@@ -86,7 +103,7 @@ I am **Chelimala Hemanth**, an **AI & Data Science Specialist and Full Stack Eng
 
 </td>
 
-<td width="44%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
 ```text
 ╔══════════════════════════════════════╗
@@ -94,18 +111,19 @@ I am **Chelimala Hemanth**, an **AI & Data Science Specialist and Full Stack Eng
 ╠══════════════════════════════════════╣
 ║ 👤 Operator   │ Chelimala Hemanth    ║
 ║ 🟢 Status     │ Production Ready 🚀  ║
-║ 🎓 Major      │ B.Tech AI & DS       ║
+║ 🎓 Degree     │ B.Tech AI & DS       ║
+║ 🏆 Honor      │ Top 2 Dept Performer ║
+║ 📊 Academic   │ CGPA: 8.3 / 10       ║
 ║ ⏳ Timeline   │ 2022 — 2026          ║
-║ 📍 Station    │ Kadapa, AP, India    ║
+║ 📍 Location   │ Kadapa, AP, India    ║
 ║ ☕ Primary    │ Java • Python • JS   ║
 ║ ⚛️ UI Engine  │ React • 3D Motion    ║
-║ 🧠 Deep Model │ CNN • Scikit-Learn   ║
+║ 🧠 Deep Model │ CNN (92% Acc) • ML   ║
 ║ 🗄️ Database   │ MySQL • PostgreSQL   ║
-║ ☁️ Workflow   │ Docker • Git • CI/CD ║
 ╚══════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=350&lines=%E2%9C%A8+NEURAL_CORE%3A+100%25+OPTIMIZED;%E2%9A%A1+MEMORY_BANDWIDTH%3A+UNLIMITED;%F0%9F%9A%80+READY_FOR_NEXT_CHALLENGE" alt="Matrix Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=360&lines=%E2%9C%A8+NEURAL_CORE%3A+100%25+OPTIMIZED;%E2%9A%A1+MEMORY_BANDWIDTH%3A+UNLIMITED;%F0%9F%9A%80+READY_FOR_NEXT_CHALLENGE" alt="Matrix Status" />
 
 </td>
 </tr>
@@ -176,13 +194,31 @@ I am **Chelimala Hemanth**, an **AI & Data Science Specialist and Full Stack Eng
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════
-     🚀 03 / FLAGSHIP 3D VENTURES & SHOWCASE PROJECTS
+     🚀 03 / REAL-WORLD REPOSITORIES & SHOWCASE PROJECTS
      ══════════════════════════════════════════════════════════════════════════════════ -->
-# 🚀 03 / FLAGSHIP VENTURES & ARCHITECTURE
+# 🚀 03 / REAL-WORLD REPOSITORIES & SHOWCASE PROJECTS
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2400&pause=700&color=00F2FE&center=true&vCenter=true&width=880&lines=%E2%AD%90+PROJECT+01%3A+CREDIT+SCORE+PREDICTOR+%5BML+%2B+FASTAPI%5D;%E2%AD%90+PROJECT+02%3A+RICE+VISION+AI+%5BDEEP+LEARNING+%2B+CNN%5D;%E2%AD%90+PROJECT+03%3A+TASTY-TAP+PLATFORM+%5BJAVA+FULL+STACK%5D;%E2%AD%90+PROJECT+04%3A+CINEKINGS+STREAMING+%5BREACT+%2B+MOTION%5D" alt="Project Switcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2400&pause=700&color=00F2FE&center=true&vCenter=true&width=880&lines=%E2%AD%90+PROJECT+01%3A+RICE+CLASSIFICATION+AI+%5BCNN+%2B+92%25+ACCURACY%5D;%E2%AD%90+PROJECT+02%3A+CREDIT+LOAN+RISK+ASSESSMENT+%5BML+%2B+FASTAPI%5D;%E2%AD%90+PROJECT+03%3A+TASTY-TAP+FOOD+PLATFORM+%5BJAVA+FULL+STACK%5D;%E2%AD%90+PROJECT+04%3A+CINEKINGS+STREAMING+ENGINE+%5BREACT+%2B+3D+MOTION%5D" alt="Project Switcher" />
 </div>
+
+<br>
+
+<!-- REPOSITORY PIN CARDS GRID -->
+<table border="0" width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Rice-Classification-AI-Model&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0" width="100%" alt="Rice Classification AI Model Repo Card" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanth2662777&repo=Credit_Loan_Rise_Assessment&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=FF0080&text_color=E2E8F0" width="100%" alt="Credit Loan Risk Assessment Repo Card" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -190,10 +226,44 @@ I am **Chelimala Hemanth**, an **AI & Data Science Specialist and Full Stack Eng
 <tr>
 <td width="50%" valign="top">
 
-### 💳 01 / Credit Score Predictor
-`🟢 LIVE` · **Machine Learning · FastAPI · Scikit-Learn**
+### 🌾 01 / Rice Variety Classification AI Model
+`🔵 AI / COMPUTER VISION` · **`92% ACCURACY`**
+**`TensorFlow` · `Python` · `CNN` · `OpenCV` · `Render Deployment`**
 
-An intelligent predictive financial scoring engine that analyzes high-dimensional credit histories, debt-to-income metrics, and default probability vectors in real-time.
+A deep learning computer vision model classifying 5 unique rice cultivars from grain imagery with high precision.
+
+```text
+┌─────────────────┐     ┌────────────────┐     ┌─────────────────┐
+│ Grain Image     │ ──► │ Preprocessing  │ ──► │ Multi-Layer CNN │
+└─────────────────┘     └────────────────┘     └────────┬────────┘
+                                                        │
+┌───────────────────────────────────────────────────────▼────────┐
+│ 🎯 Instant Variety Classification (92% Accuracy Rating)        │
+└────────────────────────────────────────────────────────────────┘
+```
+
+* 🔹 Convolutional neural network with automated data augmentation
+* 🔹 Real-time inference web app with interactive upload & instant output
+* 🔹 Live cloud deployment on Render with responsive UI
+
+<div align="left">
+<a href="https://github.com/hemanth2662777/Rice-Classification-AI-Model">
+  <img src="https://img.shields.io/badge/GITHUB_REPO-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://rice-classification-ai-model.onrender.com/login">
+  <img src="https://img.shields.io/badge/LIVE_APP-00F2FE?style=for-the-badge&logo=render&logoColor=black" />
+</a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 02 / Credit Loan Risk & Score Predictor
+`🟢 PREDICTIVE ANALYTICS` · **`HIGH PRECISION`**
+**`Python` · `Scikit-Learn` · `FastAPI` · `MySQL` · `StandardScaler`**
+
+A financial intelligence system that assesses borrower credit risk and calculates credit scores from multivariate profile metrics.
 
 ```text
 ┌─────────────────┐     ┌────────────────┐     ┌─────────────────┐
@@ -205,48 +275,16 @@ An intelligent predictive financial scoring engine that analyzes high-dimensiona
 └────────────────────────────────────────────────────────────────┘
 ```
 
-* 🔹 Highly tuned multivariate feature engineering pipelines
-* 🔹 Low-latency REST endpoints built with asynchronous FastAPI
-* 🔹 Interactive UI with dynamic probability charts and telemetry
+* 🔹 Feature engineering on Debt-to-Income and credit history vectors
+* 🔹 High-throughput asynchronous backend built with FastAPI
+* 🔹 Persistent MySQL database integration for user query tracking
 
 <div align="left">
-<a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
+  <img src="https://img.shields.io/badge/GITHUB_REPO-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-<a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/LIVE_PREVIEW-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌾 02 / Rice Variety Vision AI
-`🔵 AI ENGINE` · **Deep Learning · TensorFlow · CNN**
-
-A computer vision classification model trained on botanical image datasets to automate cultivar grain identification with fine-grained accuracy.
-
-```text
-┌─────────────────┐     ┌────────────────┐     ┌─────────────────┐
-│ Grain Image     │ ──► │ Augmentation   │ ──► │ Multi-Layer CNN │
-└─────────────────┘     └────────────────┘     └────────┬────────┘
-                                                        │
-┌───────────────────────────────────────────────────────▼────────┐
-│ 🎯 Instant Variety Classification & Confidence Distribution    │
-└────────────────────────────────────────────────────────────────┘
-```
-
-* 🔹 Deep Convolutional layers + Dropout + MaxPool spatial reduction
-* 🔹 Robust augmentation eliminating background noise & lighting variance
-* 🔹 Deployed inference interface hosted on Hugging Face spaces
-
-<div align="left">
-<a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-<a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/MODEL_WEIGHTS-FF0080?style=for-the-badge&logo=huggingface&logoColor=white" />
+<a href="https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment">
+  <img src="https://img.shields.io/badge/VIEW_MODEL-FF0080?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </a>
 </div>
 
@@ -256,18 +294,22 @@ A computer vision classification model trained on botanical image datasets to au
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ 03 / TastyTap Delivery Platform
-`⚡ ENTERPRISE` · **Java Servlets · JDBC · MySQL · MVC**
+### 🍽️ 03 / TastyTap — Enterprise Food Ordering System
+`⚡ FULL STACK` · **`ENTERPRISE ARCHITECTURE`**
+**`Java` · `Servlets` · `JDBC` · `MySQL` · `HTML5/CSS3`**
 
-A multi-tenant restaurant dispatch and food ordering portal engineered for zero-loss transactional consistency and high concurrent traffic.
+A complete full-stack food delivery web portal featuring menu catalogs, role-based authentication, and transaction workflows.
 
-* 🔹 Role-Based Access Control (RBAC) with hashed session authentication
+* 🔹 Robust Session & Role-Based Access Control (RBAC) security
 * 🔹 Optimized JDBC connection pooling with atomic transactional SQL queries
-* 🔹 Responsive live cart sync, invoice generation, and status tracker
+* 🔹 Responsive dynamic menus, cart workflows, and checkout pipeline
 
 <div align="left">
 <a href="https://github.com/hemanth2662777">
   <img src="https://img.shields.io/badge/SOURCE_CODE-ED8B00?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/hemanth2662777">
+  <img src="https://img.shields.io/badge/STACK-JAVA%20%2B%20SQL-7928CA?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
 </div>
 
@@ -275,8 +317,9 @@ A multi-tenant restaurant dispatch and food ordering portal engineered for zero-
 
 <td width="50%" valign="top">
 
-### 🎬 04 / CineKings Cinema Streaming UX
-`💎 3D MOTION` · **React.js · Modern CSS · JavaScript ES6**
+### 🎬 04 / CineKings — 3D Streaming Cinema UX
+`💎 3D MOTION` · **`STREAMING UI ENGINE`**
+**`React.js` · `CSS3 Motion` · `JavaScript ES6` · `REST API`**
 
 A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card tilt physics, trailer streaming, and instantaneous live search.
 
@@ -289,7 +332,7 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
   <img src="https://img.shields.io/badge/SOURCE_CODE-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </a>
 <a href="https://github.com/hemanth2662777">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_PREVIEW-FF0080?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
 
@@ -372,27 +415,27 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════
-     🎓 06 / EDUCATION & CAREER TRAJECTORY
+     🎓 06 / EDUCATION, INTERNSHIPS & CERTIFICATIONS
      ══════════════════════════════════════════════════════════════════════════════════ -->
-# 🎓 06 / EDUCATION & PROFESSIONAL FLIGHT PATH
+# 🎓 06 / EDUCATION, INTERNSHIPS & CERTIFICATIONS
 
 <div align="center">
 
 ```text
 2022 ──► 🎓 B.Tech in Artificial Intelligence & Data Science (KORMCE)
-           ├── Strong Data Structures, Algorithms & OOPS in Java
-           └── Machine Learning Fundamentals & Linear Algebra
+           ├── Academic Honors: Ranked TOP 2 in Department (CGPA: 8.3 / 10)
+           └── Strong Foundations in Java OOP, Data Structures, Algorithms & Linear Algebra
             │
-2024 ──► 🌐 Full Stack Mastery & Practical AI
-           ├── REST APIs, Spring Boot & React.js Integration
-           └── Computer Vision, CNNs & Neural Architecture
+2024 ──► 🌐 Full Stack & Advanced Machine Learning
+           ├── REST APIs, Java Servlets, JDBC, SQL & React.js Integration
+           └── Computer Vision, CNNs & Agricultural AI Classification
             │
-2025 ──► 💼 Industry Internships (SmartBridge AI & SkillDzire)
-           ├── End-to-End Predictive Model Pipelines & EDA
-           └── Backend Microservices & Production Codebases
+2025 ──► 💼 Industry Internships (SmartBridge AI/ML & SkillDzire Quantum Computing)
+           ├── End-to-End Predictive ML Pipelines, Data Preprocessing & Scikit-Learn
+           └── Exploration of Quantum Gates, Algorithms & Emerging Tech
             │
-2026 ──► 🚀 Graduation & Engineering High-Impact Scalable Software
-           └── Enterprise Distributed Systems • Applied GenAI • Modern Web
+2026 ──► 🚀 Graduation & Production-Grade Engineering
+           └── Distributed Cloud Systems • Applied GenAI • High-Performance Web
 ```
 
 </div>
@@ -403,7 +446,7 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 SmartBridge — AI / ML Intern
+### 🧠 SmartBridge — AI & ML Intern
 **`APSCHE Virtual` · `Applied AI & Machine Learning Track`**
 
 * 🔹 Developed machine learning workflows using Python, Pandas, NumPy, and Scikit-Learn.
@@ -414,16 +457,32 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 
 <td width="50%" valign="top">
 
-### ⚙️ SkillDzire — Software Intern
-**`APSCHE` · `Full Stack Engineering Track`**
+### ⚙️ SkillDzire — Quantum Computing Intern
+**`APSCHE` · `Quantum Computing Track`**
 
-* 🔹 Strengthened end-to-end full stack architecture and software engineering fundamentals.
-* 🔹 Engineered modular components and integrated database services with relational SQL.
-* 🔹 Practiced clean code patterns, Git collaboration workflows, and agile development.
+* 🔹 Studied qubits, superposition, quantum logic gates, and quantum algorithms.
+* 🔹 Analyzed emerging high-performance computational paradigms.
+* 🔹 Applied algorithmic problem-solving to complex computational architectures.
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- CERTIFICATION BADGES -->
+<div align="center">
+
+### 📜 VERIFIED CERTIFICATIONS & ACADEMIC RECOGNITION
+
+| Code | Certification / Honor | Issuing Organization | Verification Status |
+| :---: | :--- | :--- | :---: |
+| 🤖 **AI** | **Artificial Intelligence & Machine Learning** | SmartBridge (APSCHE) | `VERIFIED` 🟢 |
+| 📊 **BD** | **Big Data Specialization** | NPTEL | `VERIFIED` 🟢 |
+| ⚛️ **QC** | **Quantum Computing** | SkillDzire (APSCHE) | `VERIFIED` 🟢 |
+| 🏆 **#1** | **Top 2 Academic Performer (CGPA 8.3)** | B.Tech AI & Data Science | `HONOR` 🌟 |
+
+</div>
 
 <br>
 
@@ -435,14 +494,17 @@ A cinematic video discovery engine featuring Netflix-inspired fluidity, 3D card 
 <div align="center">
 
 ```bash
-$ curl -s https://api.github.com/users/hemanth2662777 | jq '{name, bio, location, focus}'
+$ curl -s https://api.github.com/users/hemanth2662777 | jq '{name, bio, location, repos, focus}'
 {
   "name": "CHELIMALA HEMANTH",
-  "bio": "Building Scalable Java Backends & Intelligent AI/ML Applications",
+  "bio": "Java Full Stack Developer | AI & Data Science Engineer",
   "location": "Kadapa, Andhra Pradesh, India",
-  "education": "B.Tech in Artificial Intelligence & Data Science (2022-2026)",
-  "status": "Ready for impactful engineering opportunities 🚀",
-  "skills": ["Java", "Python", "React", "JavaScript", "SQL", "TensorFlow", "FastAPI"]
+  "education": "B.Tech in AI & DS (2022-2026) | CGPA: 8.3 / Top 2 Ranked",
+  "featured_repos": [
+    "https://github.com/hemanth2662777/Rice-Classification-AI-Model",
+    "https://github.com/hemanth2662777/Credit_Loan_Rise_Assessment"
+  ],
+  "status": "Online & Ready for Impactful Opportunities 🚀"
 }
 ```
 
@@ -457,7 +519,7 @@ $ curl -s https://api.github.com/users/hemanth2662777 | jq '{name, bio, location
 
 <div align="center">
 
-### Let's build something extraordinary together!
+### Let's engineer something extraordinary together!
 
 <br>
 
@@ -465,11 +527,11 @@ $ curl -s https://api.github.com/users/hemanth2662777 | jq '{name, bio, location
   <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/hemanth-chelimala-a55b79253">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:hemanth2662777@gmail.com">
+<a href="mailto:hemanth2662n@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
